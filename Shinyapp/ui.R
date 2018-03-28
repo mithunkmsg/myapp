@@ -19,7 +19,7 @@ shinyUI(fluidPage(
 
     
     mainPanel(
-      plotOutput("distPlot")
+      verbatimTextOutput("sum")
     )
   )
 ))
