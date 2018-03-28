@@ -1,7 +1,7 @@
 
 
 library(shiny)
-
+insurance<-readRDS("insurance.rda")
 shinyUI(fluidPage(
 
  
