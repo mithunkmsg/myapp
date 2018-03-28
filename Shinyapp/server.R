@@ -1,9 +1,9 @@
 library(shiny)
-insurance<-readRDS("insurance.rda")
+speciality_wise<-readRDS("speciality_wise.rda")
 shinyServer(function(input, output) {
 
   output$sum <-renderPrint(
-    summary(insurance)
+    summary(speciality_wise)
   ) 
 
 })
