@@ -1,0 +1,2502 @@
+Month,Speciality,Ind_search,Request,Opd,Ipd
+4/1/2018,Abdominal Hysterectomy,1000,8,4,2
+8/1/2017,Abdominal Hysterectomy,1000,41,15,1
+12/1/2017,Abdominal Hysterectomy,1000,47,35,1
+2/1/2018,Abdominal Hysterectomy,880,5,1,0
+1/1/2018,Abdominal Hysterectomy,1000,3,1,0
+7/1/2017,Abdominal Hysterectomy,880,64,21,1
+6/1/2017,Abdominal Hysterectomy,880,54,15,3
+3/1/2018,Abdominal Hysterectomy,880,3,0,0
+5/1/2017,Abdominal Hysterectomy,720,44,8,0
+11/1/2017,Abdominal Hysterectomy,720,46,28,3
+10/1/2017,Abdominal Hysterectomy,880,14,11,2
+9/1/2017,Abdominal Hysterectomy,500,21,14,2
+4/1/2018,Abdominal Myomectomy,140,11,3,0
+8/1/2017,Abdominal Myomectomy,90,6,2,0
+12/1/2017,Abdominal Myomectomy,110,5,0,0
+1/1/2018,Abdominal Myomectomy,110,3,1,1
+7/1/2017,Abdominal Myomectomy,110,7,1,1
+3/1/2018,Abdominal Myomectomy,70,1,0,0
+5/1/2017,Abdominal Myomectomy,110,6,2,0
+11/1/2017,Abdominal Myomectomy,90,50,20,18
+10/1/2017,Abdominal Myomectomy,90,1,1,1
+9/1/2017,Abdominal Myomectomy,500,2,0,0
+4/1/2018,Abdominoplasty,1300,5,2,2
+8/1/2017,Abdominoplasty,1000,6,3,0
+12/1/2017,Abdominoplasty,1300,3,0,0
+2/1/2018,Abdominoplasty,1000,5,1,0
+1/1/2018,Abdominoplasty,1300,1,1,1
+7/1/2017,Abdominoplasty,1600,6,1,0
+6/1/2017,Abdominoplasty,1300,3,1,1
+5/1/2017,Abdominoplasty,1300,4,1,1
+11/1/2017,Abdominoplasty,1300,2,1,0
+10/1/2017,Abdominoplasty,1000,1,1,0
+9/1/2017,Abdominoplasty,200,2,1,1
+4/1/2018,Abortion Surgery,140,57,14,1
+8/1/2017,Abortion Surgery,140,64,13,0
+12/1/2017,Abortion Surgery,170,36,16,0
+2/1/2018,Abortion Surgery,170,58,6,2
+1/1/2018,Abortion Surgery,140,44,14,0
+7/1/2017,Abortion Surgery,110,53,2,0
+6/1/2017,Abortion Surgery,170,36,1,0
+3/1/2018,Abortion Surgery,70,46,10,1
+5/1/2017,Abortion Surgery,140,33,7,0
+11/1/2017,Abortion Surgery,140,62,20,2
+10/1/2017,Abortion Surgery,140,42,14,0
+9/1/2017,Abortion Surgery,500,44,7,1
+4/1/2018,ACL Surgery,2400,11,3,1
+8/1/2017,ACL Surgery,1900,42,17,2
+12/1/2017,ACL Surgery,2400,13,6,3
+2/1/2018,ACL Surgery,2400,28,15,2
+1/1/2018,ACL Surgery,2400,13,10,4
+7/1/2017,ACL Surgery,1900,20,10,6
+6/1/2017,ACL Surgery,2900,13,4,2
+3/1/2018,ACL Surgery,1600,23,14,5
+5/1/2017,ACL Surgery,2400,22,12,7
+11/1/2017,ACL Surgery,1900,24,13,6
+10/1/2017,ACL Surgery,1900,4,3,0
+9/1/2017,ACL Surgery,500,25,12,6
+4/1/2018,Acne Scar Reduction Surgery,,2,1,0
+8/1/2017,Acne Scar Reduction Surgery,,2,1,0
+12/1/2017,Acne Scar Reduction Surgery,,1,1,0
+1/1/2018,Acne Scar Reduction Surgery,,1,0,0
+7/1/2017,Acne Scar Reduction Surgery,,2,0,0
+6/1/2017,Acne Scar Reduction Surgery,,2,0,0
+11/1/2017,Acne Scar Reduction Surgery,,1,0,0
+10/1/2017,Acne Scar Reduction Surgery,,2,1,0
+9/1/2017,Acne Scar Reduction Surgery,500,1,0,0
+4/1/2018,Amniocentesis,9900,18,4,0
+8/1/2017,Amniocentesis,9900,21,2,0
+12/1/2017,Amniocentesis,9900,20,13,0
+2/1/2018,Amniocentesis,9900,41,12,0
+1/1/2018,Amniocentesis,9900,17,14,0
+7/1/2017,Amniocentesis,12100,41,4,0
+6/1/2017,Amniocentesis,8100,4,1,0
+3/1/2018,Amniocentesis,8100,32,11,1
+5/1/2017,Amniocentesis,8100,8,4,0
+11/1/2017,Amniocentesis,8100,14,6,0
+10/1/2017,Amniocentesis,8100,27,10,0
+9/1/2017,Amniocentesis,,14,6,0
+4/1/2018,Angiogram,74000,234,151,103
+8/1/2017,Angiogram,74000,64,42,36
+12/1/2017,Angiogram,90500,37,31,19
+2/1/2018,Angiogram,74000,145,108,85
+1/1/2018,Angiogram,60500,87,63,40
+7/1/2017,Angiogram,60500,84,59,52
+6/1/2017,Angiogram,74000,33,19,15
+3/1/2018,Angiogram,60500,241,176,126
+5/1/2017,Angiogram,74000,34,24,22
+11/1/2017,Angiogram,74000,102,76,46
+10/1/2017,Angiogram,74000,103,89,75
+9/1/2017,Angiogram,,82,66,57
+4/1/2018,Angioplasty with Stent Placement,30,78,42,29
+8/1/2017,Angioplasty with Stent Placement,20,36,16,12
+12/1/2017,Angioplasty with Stent Placement,30,28,21,16
+2/1/2018,Angioplasty with Stent Placement,20,64,48,36
+1/1/2018,Angioplasty with Stent Placement,10,42,32,27
+7/1/2017,Angioplasty with Stent Placement,20,36,20,12
+6/1/2017,Angioplasty with Stent Placement,20,31,20,19
+3/1/2018,Angioplasty with Stent Placement,30,64,52,43
+5/1/2017,Angioplasty with Stent Placement,10,30,17,17
+11/1/2017,Angioplasty with Stent Placement,20,27,20,16
+10/1/2017,Angioplasty with Stent Placement,20,27,25,15
+9/1/2017,Angioplasty with Stent Placement,500,36,28,26
+4/1/2018,Anorectal Cancer Surgery,,2,0,0
+2/1/2018,Anorectal Cancer Surgery,,1,1,1
+4/1/2018,Anterior Cruciate Ligament Reconstruction,110,2,0,0
+8/1/2017,Anterior Cruciate Ligament Reconstruction,90,1,1,0
+12/1/2017,Anterior Cruciate Ligament Reconstruction,90,1,1,1
+2/1/2018,Anterior Cruciate Ligament Reconstruction,70,3,3,0
+1/1/2018,Anterior Cruciate Ligament Reconstruction,140,1,0,0
+7/1/2017,Anterior Cruciate Ligament Reconstruction,140,4,1,0
+6/1/2017,Anterior Cruciate Ligament Reconstruction,90,4,2,1
+3/1/2018,Anterior Cruciate Ligament Reconstruction,110,1,1,0
+5/1/2017,Anterior Cruciate Ligament Reconstruction,70,2,1,0
+11/1/2017,Anterior Cruciate Ligament Reconstruction,90,1,1,0
+9/1/2017,Anterior Cruciate Ligament Reconstruction,,6,0,0
+4/1/2018,Aortic Aneurysm Repair,50,8,3,0
+8/1/2017,Aortic Aneurysm Repair,50,6,2,0
+12/1/2017,Aortic Aneurysm Repair,70,1,1,1
+2/1/2018,Aortic Aneurysm Repair,30,3,3,3
+1/1/2018,Aortic Aneurysm Repair,70,5,1,1
+7/1/2017,Aortic Aneurysm Repair,70,8,1,0
+6/1/2017,Aortic Aneurysm Repair,50,2,0,0
+3/1/2018,Aortic Aneurysm Repair,70,4,3,0
+5/1/2017,Aortic Aneurysm Repair,50,3,1,1
+11/1/2017,Aortic Aneurysm Repair,50,2,2,1
+10/1/2017,Aortic Aneurysm Repair,50,1,1,1
+9/1/2017,Aortic Aneurysm Repair,500,4,2,1
+4/1/2018,Aortic Valve Surgery,50,17,8,3
+8/1/2017,Aortic Valve Surgery,90,14,5,1
+12/1/2017,Aortic Valve Surgery,70,4,3,0
+2/1/2018,Aortic Valve Surgery,70,14,7,2
+1/1/2018,Aortic Valve Surgery,70,13,8,3
+7/1/2017,Aortic Valve Surgery,70,12,4,1
+6/1/2017,Aortic Valve Surgery,70,16,4,2
+3/1/2018,Aortic Valve Surgery,50,13,7,2
+5/1/2017,Aortic Valve Surgery,50,6,3,1
+11/1/2017,Aortic Valve Surgery,70,2,2,1
+10/1/2017,Aortic Valve Surgery,70,3,1,1
+9/1/2017,Aortic Valve Surgery,,4,3,0
+4/1/2018,Arthroscopy,8100,3,2,1
+8/1/2017,Arthroscopy,6600,8,4,2
+7/1/2017,Arthroscopy,6600,15,4,0
+3/1/2018,Arthroscopy,6600,3,2,2
+5/1/2017,Arthroscopy,6600,11,5,1
+11/1/2017,Arthroscopy,6600,2,2,1
+10/1/2017,Arthroscopy,6600,3,2,1
+9/1/2017,Arthroscopy,,3,2,0
+4/1/2018,Atrial Septal Defect ASD Surgery,,60,24,8
+8/1/2017,Atrial Septal Defect ASD Surgery,,25,12,7
+12/1/2017,Atrial Septal Defect ASD Surgery,,21,12,5
+2/1/2018,Atrial Septal Defect ASD Surgery,,40,21,11
+1/1/2018,Atrial Septal Defect ASD Surgery,,14,8,2
+7/1/2017,Atrial Septal Defect ASD Surgery,,29,9,4
+6/1/2017,Atrial Septal Defect ASD Surgery,,22,12,5
+3/1/2018,Atrial Septal Defect ASD Surgery,,58,22,5
+5/1/2017,Atrial Septal Defect ASD Surgery,,20,9,3
+11/1/2017,Atrial Septal Defect ASD Surgery,,20,13,6
+10/1/2017,Atrial Septal Defect ASD Surgery,,10,7,4
+9/1/2017,Atrial Septal Defect ASD Surgery,500,15,8,4
+4/1/2018,Back Pain Surgery,90,2,0,0
+8/1/2017,Back Pain Surgery,140,3,2,0
+12/1/2017,Back Pain Surgery,140,1,0,0
+2/1/2018,Back Pain Surgery,90,1,1,1
+7/1/2017,Back Pain Surgery,70,7,4,0
+6/1/2017,Back Pain Surgery,170,3,3,2
+3/1/2018,Back Pain Surgery,110,1,0,0
+5/1/2017,Back Pain Surgery,110,4,1,0
+11/1/2017,Back Pain Surgery,110,1,1,0
+10/1/2017,Back Pain Surgery,110,3,1,0
+9/1/2017,Back Pain Surgery,500,5,2,1
+4/1/2018,Bladder Cancer Surgery,40,1,1,1
+8/1/2017,Bladder Cancer Surgery,30,3,2,1
+1/1/2018,Bladder Cancer Surgery,40,2,0,0
+7/1/2017,Bladder Cancer Surgery,40,16,5,1
+6/1/2017,Bladder Cancer Surgery,40,8,2,0
+3/1/2018,Bladder Cancer Surgery,50,5,1,0
+5/1/2017,Bladder Cancer Surgery,30,5,3,1
+11/1/2017,Bladder Cancer Surgery,30,2,1,0
+10/1/2017,Bladder Cancer Surgery,30,3,2,2
+9/1/2017,Bladder Cancer Surgery,500,1,0,0
+4/1/2018,Blepharoplasty,1900,5,1,0
+8/1/2017,Blepharoplasty,1900,20,7,0
+2/1/2018,Blepharoplasty,1600,2,0,0
+1/1/2018,Blepharoplasty,1900,1,1,0
+7/1/2017,Blepharoplasty,1900,5,2,0
+6/1/2017,Blepharoplasty,1600,10,5,0
+5/1/2017,Blepharoplasty,1600,7,3,0
+9/1/2017,Blepharoplasty,500,4,1,0
+4/1/2018,Blood Cancer Treatment,3600,1,1,1
+8/1/2017,Blood Cancer Treatment,4400,20,4,0
+12/1/2017,Blood Cancer Treatment,4400,1,1,0
+2/1/2018,Blood Cancer Treatment,3600,3,1,1
+1/1/2018,Blood Cancer Treatment,2900,4,3,1
+7/1/2017,Blood Cancer Treatment,3600,8,4,1
+6/1/2017,Blood Cancer Treatment,4400,6,2,0
+3/1/2018,Blood Cancer Treatment,3600,2,1,1
+5/1/2017,Blood Cancer Treatment,4400,5,1,0
+11/1/2017,Blood Cancer Treatment,3600,2,2,2
+9/1/2017,Blood Cancer Treatment,3600,1,0,0
+8/1/2017,Body Contouring Surgery,70,7,3,0
+2/1/2018,Body Contouring Surgery,50,2,2,0
+7/1/2017,Body Contouring Surgery,70,1,0,0
+6/1/2017,Body Contouring Surgery,20,4,2,1
+3/1/2018,Body Contouring Surgery,50,1,0,0
+5/1/2017,Body Contouring Surgery,70,1,0,0
+11/1/2017,Body Contouring Surgery,,1,1,0
+4/1/2018,Bone Marrow Transplant,2400,29,13,2
+8/1/2017,Bone Marrow Transplant,2400,64,24,2
+12/1/2017,Bone Marrow Transplant,2400,12,11,0
+2/1/2018,Bone Marrow Transplant,1900,28,12,2
+1/1/2018,Bone Marrow Transplant,2400,25,15,4
+7/1/2017,Bone Marrow Transplant,2900,70,13,1
+6/1/2017,Bone Marrow Transplant,2400,60,10,0
+3/1/2018,Bone Marrow Transplant,2400,21,5,1
+5/1/2017,Bone Marrow Transplant,2400,21,5,0
+11/1/2017,Bone Marrow Transplant,1900,21,12,3
+10/1/2017,Bone Marrow Transplant,1900,9,5,0
+9/1/2017,Bone Marrow Transplant,2400,37,20,4
+8/1/2017,Bone scan,4400,13,1,0
+1/1/2018,Bone scan,3600,1,0,0
+7/1/2017,Bone scan,4400,9,0,0
+6/1/2017,Bone scan,3600,3,2,0
+5/1/2017,Bone scan,4400,2,0,0
+11/1/2017,Bone scan,3600,3,2,1
+10/1/2017,Bone scan,500,1,1,1
+4/1/2018,Botox,49500,2,1,0
+8/1/2017,Botox,18100,1,0,0
+12/1/2017,Botox,22200,1,1,0
+1/1/2018,Botox,22200,4,1,0
+7/1/2017,Botox,22200,1,1,1
+6/1/2017,Botox,33100,1,0,0
+3/1/2018,Botox,14800,3,2,0
+10/1/2017,Botox,14800,1,1,0
+9/1/2017,Botox,500,1,0,0
+4/1/2018,Brain Aneursym Surgery,,1,0,0
+8/1/2017,Brain Aneursym Surgery,,7,3,1
+12/1/2017,Brain Aneursym Surgery,,2,1,0
+2/1/2018,Brain Aneursym Surgery,,2,2,1
+1/1/2018,Brain Aneursym Surgery,,8,4,3
+7/1/2017,Brain Aneursym Surgery,,4,2,0
+5/1/2017,Brain Aneursym Surgery,,2,0,0
+11/1/2017,Brain Aneursym Surgery,,3,1,0
+9/1/2017,Brain Aneursym Surgery,,2,0,0
+4/1/2018,Brain Mapping,2400,10,3,1
+8/1/2017,Brain Mapping,2900,6,0,0
+12/1/2017,Brain Mapping,2400,5,3,1
+2/1/2018,Brain Mapping,1900,2,2,0
+1/1/2018,Brain Mapping,2400,5,2,0
+7/1/2017,Brain Mapping,2400,9,2,0
+6/1/2017,Brain Mapping,1900,6,0,0
+3/1/2018,Brain Mapping,2400,8,4,0
+5/1/2017,Brain Mapping,2900,4,0,0
+11/1/2017,Brain Mapping,2400,9,4,1
+10/1/2017,Brain Mapping,2400,7,0,0
+9/1/2017,Brain Mapping,,9,2,0
+4/1/2018,Brain Surgery,5400,14,6,4
+8/1/2017,Brain Surgery,4400,27,11,5
+12/1/2017,Brain Surgery,3600,29,20,13
+2/1/2018,Brain Surgery,3600,18,11,8
+1/1/2018,Brain Surgery,4400,19,10,7
+7/1/2017,Brain Surgery,5400,23,6,4
+6/1/2017,Brain Surgery,2900,11,4,2
+3/1/2018,Brain Surgery,3600,29,10,4
+5/1/2017,Brain Surgery,5400,11,9,7
+11/1/2017,Brain Surgery,5400,34,16,8
+10/1/2017,Brain Surgery,5400,9,5,3
+9/1/2017,Brain Surgery,,11,4,2
+4/1/2018,Brain Tumor Surgery,1900,30,11,4
+8/1/2017,Brain Tumor Surgery,2900,34,11,8
+12/1/2017,Brain Tumor Surgery,2400,18,13,5
+2/1/2018,Brain Tumor Surgery,2400,29,13,8
+1/1/2018,Brain Tumor Surgery,1900,36,20,6
+7/1/2017,Brain Tumor Surgery,1600,32,8,5
+6/1/2017,Brain Tumor Surgery,2400,21,5,4
+3/1/2018,Brain Tumor Surgery,1900,21,14,7
+5/1/2017,Brain Tumor Surgery,2900,32,11,7
+11/1/2017,Brain Tumor Surgery,2400,27,16,11
+10/1/2017,Brain Tumor Surgery,2400,18,12,9
+9/1/2017,Brain Tumor Surgery,500,26,9,2
+4/1/2018,Breast Augmentation Surgery,1000,6,1,1
+8/1/2017,Breast Augmentation Surgery,1000,3,2,1
+12/1/2017,Breast Augmentation Surgery,880,3,3,2
+2/1/2018,Breast Augmentation Surgery,1000,2,0,0
+1/1/2018,Breast Augmentation Surgery,590,3,3,1
+7/1/2017,Breast Augmentation Surgery,590,2,1,1
+6/1/2017,Breast Augmentation Surgery,880,1,0,0
+3/1/2018,Breast Augmentation Surgery,480,1,0,0
+5/1/2017,Breast Augmentation Surgery,1000,1,1,1
+11/1/2017,Breast Augmentation Surgery,880,3,1,1
+10/1/2017,Breast Augmentation Surgery,880,6,1,0
+9/1/2017,Breast Augmentation Surgery,,1,1,1
+4/1/2018,Breast Cancer Surgery,720,8,6,5
+8/1/2017,Breast Cancer Surgery,590,11,6,5
+12/1/2017,Breast Cancer Surgery,720,10,8,6
+2/1/2018,Breast Cancer Surgery,590,14,9,7
+1/1/2018,Breast Cancer Surgery,590,7,6,5
+7/1/2017,Breast Cancer Surgery,590,13,10,8
+6/1/2017,Breast Cancer Surgery,590,13,2,2
+3/1/2018,Breast Cancer Surgery,590,8,6,2
+5/1/2017,Breast Cancer Surgery,590,7,3,2
+11/1/2017,Breast Cancer Surgery,590,8,7,6
+10/1/2017,Breast Cancer Surgery,720,6,6,5
+9/1/2017,Breast Cancer Surgery,,14,8,7
+4/1/2018,Breast Cancer Treatment,4400,15,7,0
+8/1/2017,Breast Cancer Treatment,6600,34,13,2
+12/1/2017,Breast Cancer Treatment,5400,5,5,0
+2/1/2018,Breast Cancer Treatment,5400,9,4,0
+1/1/2018,Breast Cancer Treatment,4400,7,2,1
+7/1/2017,Breast Cancer Treatment,4400,38,7,0
+6/1/2017,Breast Cancer Treatment,5400,22,5,0
+3/1/2018,Breast Cancer Treatment,4400,15,3,1
+5/1/2017,Breast Cancer Treatment,5400,24,6,1
+11/1/2017,Breast Cancer Treatment,4400,2,2,0
+10/1/2017,Breast Cancer Treatment,4400,6,4,1
+9/1/2017,Breast Cancer Treatment,500,6,3,1
+4/1/2018,Breast Reduction Surgery,590,1,0,0
+8/1/2017,Breast Reduction Surgery,390,1,0,0
+1/1/2018,Breast Reduction Surgery,720,2,1,0
+7/1/2017,Breast Reduction Surgery,880,1,0,0
+6/1/2017,Breast Reduction Surgery,880,4,0,0
+5/1/2017,Breast Reduction Surgery,880,1,1,0
+11/1/2017,Breast Reduction Surgery,480,3,1,0
+9/1/2017,Breast Reduction Surgery,,1,0,0
+4/1/2018,Bronchoscopy,500,1,0,0
+4/1/2018,Bronchoscopy,8100,49,18,0
+8/1/2017,Bronchoscopy,9900,35,9,0
+12/1/2017,Bronchoscopy,9900,40,25,0
+2/1/2018,Bronchoscopy,9900,38,17,0
+1/1/2018,Bronchoscopy,8100,44,25,0
+7/1/2017,Bronchoscopy,8100,28,7,1
+6/1/2017,Bronchoscopy,9900,7,0,0
+3/1/2018,Bronchoscopy,8100,73,31,1
+5/1/2017,Bronchoscopy,8100,17,3,0
+11/1/2017,Bronchoscopy,8100,30,16,0
+10/1/2017,Bronchoscopy,8100,40,20,0
+9/1/2017,Bronchoscopy,500,33,9,2
+4/1/2018,Bullectomy,390,1,1,0
+7/1/2017,Bullectomy,480,2,0,0
+3/1/2018,Bullectomy,390,2,1,0
+5/1/2017,Bullectomy,480,1,0,0
+8/1/2017,Buttock Lift,500,2,1,0
+4/1/2018,Bypass Surgery,18100,171,94,22
+8/1/2017,Bypass Surgery,22200,178,72,39
+12/1/2017,Bypass Surgery,18100,110,71,19
+2/1/2018,Bypass Surgery,18100,199,104,19
+1/1/2018,Bypass Surgery,18100,136,78,17
+7/1/2017,Bypass Surgery,18100,257,104,64
+6/1/2017,Bypass Surgery,18100,190,85,48
+3/1/2018,Bypass Surgery,14800,196,107,17
+5/1/2017,Bypass Surgery,22200,183,67,42
+11/1/2017,Bypass Surgery,18100,107,82,36
+10/1/2017,Bypass Surgery,22200,119,88,52
+9/1/2017,Bypass Surgery,18100,187,105,56
+6/1/2017,Canalith Repositioning Procedure,30,1,0,0
+5/1/2017,Canalith Repositioning Procedure,,1,0,0
+4/1/2018,Cancer Screening,390,19,8,3
+8/1/2017,Cancer Screening,480,20,9,5
+12/1/2017,Cancer Screening,720,14,12,6
+2/1/2018,Cancer Screening,390,11,4,0
+1/1/2018,Cancer Screening,390,25,11,6
+7/1/2017,Cancer Screening,480,14,6,5
+6/1/2017,Cancer Screening,720,3,1,1
+3/1/2018,Cancer Screening,320,25,9,6
+5/1/2017,Cancer Screening,390,1,0,0
+11/1/2017,Cancer Screening,480,7,6,4
+10/1/2017,Cancer Screening,390,3,1,0
+9/1/2017,Cancer Screening,500,14,8,4
+4/1/2018,Cardiac Ablation,390,22,13,9
+8/1/2017,Cardiac Ablation,1000,11,7,6
+12/1/2017,Cardiac Ablation,320,10,9,5
+2/1/2018,Cardiac Ablation,320,15,9,6
+1/1/2018,Cardiac Ablation,390,7,4,3
+7/1/2017,Cardiac Ablation,390,15,6,2
+6/1/2017,Cardiac Ablation,320,9,1,0
+3/1/2018,Cardiac Ablation,390,16,10,8
+5/1/2017,Cardiac Ablation,320,3,2,1
+11/1/2017,Cardiac Ablation,320,8,8,6
+10/1/2017,Cardiac Ablation,320,3,2,1
+9/1/2017,Cardiac Ablation,,5,2,1
+4/1/2018,Cardiac Catheterization,3600,3,2,0
+8/1/2017,Cardiac Catheterization,2900,7,2,0
+12/1/2017,Cardiac Catheterization,2900,3,1,0
+2/1/2018,Cardiac Catheterization,2900,2,1,1
+1/1/2018,Cardiac Catheterization,2900,3,3,1
+7/1/2017,Cardiac Catheterization,2900,3,1,0
+6/1/2017,Cardiac Catheterization,2900,7,2,1
+3/1/2018,Cardiac Catheterization,2900,8,2,0
+5/1/2017,Cardiac Catheterization,2900,3,0,0
+11/1/2017,Cardiac Catheterization,2900,4,2,1
+10/1/2017,Cardiac Catheterization,2900,1,0,0
+9/1/2017,Cardiac Catheterization,,7,1,0
+4/1/2018,Cardioversion,2900,3,1,0
+8/1/2017,Cardioversion,3600,4,1,1
+12/1/2017,Cardioversion,3600,3,3,1
+2/1/2018,Cardioversion,2900,4,1,0
+1/1/2018,Cardioversion,2900,1,1,0
+7/1/2017,Cardioversion,3600,3,1,0
+3/1/2018,Cardioversion,2900,3,1,0
+5/1/2017,Cardioversion,2900,1,0,0
+11/1/2017,Cardioversion,2900,3,0,0
+9/1/2017,Cardioversion,,1,0,0
+4/1/2018,Cataract Surgery,12100,7,4,1
+8/1/2017,Cataract Surgery,14800,8,1,1
+12/1/2017,Cataract Surgery,14800,9,5,1
+2/1/2018,Cataract Surgery,14800,7,4,2
+1/1/2018,Cataract Surgery,12100,7,4,2
+7/1/2017,Cataract Surgery,12100,6,1,1
+6/1/2017,Cataract Surgery,12100,5,3,3
+3/1/2018,Cataract Surgery,9900,13,7,3
+5/1/2017,Cataract Surgery,12100,4,1,1
+11/1/2017,Cataract Surgery,9900,14,9,5
+10/1/2017,Cataract Surgery,12100,4,4,3
+9/1/2017,Cataract Surgery,500,13,6,1
+4/1/2018,Cerebrospinal Fluid Shunt,10,3,2,0
+8/1/2017,Cerebrospinal Fluid Shunt,10,3,0,0
+1/1/2018,Cerebrospinal Fluid Shunt,10,2,2,0
+7/1/2017,Cerebrospinal Fluid Shunt,10,1,0,0
+5/1/2017,Cerebrospinal Fluid Shunt,10,1,0,0
+10/1/2017,Cerebrospinal Fluid Shunt,10,2,0,0
+9/1/2017,Cerebrospinal Fluid Shunt,500,1,1,0
+4/1/2018,Cervical Cerclage,1900,5,1,0
+8/1/2017,Cervical Cerclage,2400,6,3,0
+12/1/2017,Cervical Cerclage,2400,7,4,0
+2/1/2018,Cervical Cerclage,2400,11,4,0
+1/1/2018,Cervical Cerclage,2400,11,7,1
+7/1/2017,Cervical Cerclage,1900,9,3,0
+6/1/2017,Cervical Cerclage,1900,2,0,0
+3/1/2018,Cervical Cerclage,1900,9,3,0
+5/1/2017,Cervical Cerclage,1900,2,0,0
+11/1/2017,Cervical Cerclage,1900,4,3,1
+10/1/2017,Cervical Cerclage,1900,7,3,0
+9/1/2017,Cervical Cerclage,500,3,1,0
+4/1/2018,Cervical Discectomy,260,1,0,0
+8/1/2017,Cervical Discectomy,260,1,1,1
+2/1/2018,Cervical Discectomy,260,1,1,1
+6/1/2017,Cervical Discectomy,210,1,1,0
+3/1/2018,Cervical Discectomy,210,1,0,0
+11/1/2017,Cervical Discectomy,500,1,0,0
+4/1/2018,Cervical Spine Surgery,210,4,1,1
+8/1/2017,Cervical Spine Surgery,170,7,3,1
+12/1/2017,Cervical Spine Surgery,210,3,1,1
+7/1/2017,Cervical Spine Surgery,210,5,0,0
+6/1/2017,Cervical Spine Surgery,260,3,2,2
+3/1/2018,Cervical Spine Surgery,140,3,1,1
+11/1/2017,Cervical Spine Surgery,260,1,1,1
+10/1/2017,Cervical Spine Surgery,260,2,0,0
+9/1/2017,Cervical Spine Surgery,500,4,0,0
+4/1/2018,Chemoport,500,2,1,1
+2/1/2018,Chemoport,500,2,0,0
+1/1/2018,Chemoport,500,4,2,0
+7/1/2017,Chemoport,500,2,0,0
+6/1/2017,Chemoport,500,1,1,0
+3/1/2018,Chemoport,500,2,2,1
+11/1/2017,Chemoport,500,3,0,0
+10/1/2017,Chemoport,500,1,1,1
+9/1/2017,Chemoport,500,4,0,0
+4/1/2018,Chemotherapy,33100,353,206,190
+8/1/2017,Chemotherapy,40500,364,279,268
+12/1/2017,Chemotherapy,40500,239,168,151
+2/1/2018,Chemotherapy,40500,249,206,200
+1/1/2018,Chemotherapy,33100,260,203,192
+7/1/2017,Chemotherapy,33100,287,259,248
+6/1/2017,Chemotherapy,40500,250,231,228
+3/1/2018,Chemotherapy,33100,392,311,300
+5/1/2017,Chemotherapy,33100,188,176,174
+11/1/2017,Chemotherapy,33100,273,245,223
+10/1/2017,Chemotherapy,33100,251,224,217
+9/1/2017,Chemotherapy,,259,226,200
+4/1/2018,Circumcision,40500,11,6,2
+8/1/2017,Circumcision,49500,25,4,0
+12/1/2017,Circumcision,40500,4,4,2
+2/1/2018,Circumcision,40500,1,1,1
+1/1/2018,Circumcision,49500,7,4,2
+7/1/2017,Circumcision,49500,20,8,2
+6/1/2017,Circumcision,40500,11,4,1
+3/1/2018,Circumcision,40500,6,4,3
+5/1/2017,Circumcision,40500,13,3,0
+11/1/2017,Circumcision,49500,11,7,3
+10/1/2017,Circumcision,60500,5,4,2
+9/1/2017,Circumcision,500,2,2,2
+4/1/2018,Cochlear Implants,500,4,2,0
+8/1/2017,Cochlear Implants,500,5,1,0
+2/1/2018,Cochlear Implants,500,4,0,0
+1/1/2018,Cochlear Implants,500,3,2,0
+7/1/2017,Cochlear Implants,500,8,2,1
+6/1/2017,Cochlear Implants,500,1,0,0
+3/1/2018,Cochlear Implants,500,6,2,0
+5/1/2017,Cochlear Implants,500,7,2,0
+11/1/2017,Cochlear Implants,500,3,0,0
+10/1/2017,Cochlear Implants,500,4,1,0
+9/1/2017,Cochlear Implants,500,1,1,0
+4/1/2018,Colectomy,1600,7,3,1
+8/1/2017,Colectomy,1600,2,1,1
+12/1/2017,Colectomy,1300,1,1,0
+1/1/2018,Colectomy,1600,1,0,0
+7/1/2017,Colectomy,1600,5,2,1
+6/1/2017,Colectomy,1600,4,0,0
+3/1/2018,Colectomy,1600,3,1,0
+5/1/2017,Colectomy,1300,1,0,0
+11/1/2017,Colectomy,1600,2,2,1
+8/1/2017,Colon Cancer Treatment,1600,3,2,0
+12/1/2017,Colon Cancer Treatment,1600,3,1,1
+2/1/2018,Colon Cancer Treatment,1600,3,1,1
+1/1/2018,Colon Cancer Treatment,1300,1,1,1
+7/1/2017,Colon Cancer Treatment,1300,3,2,2
+6/1/2017,Colon Cancer Treatment,1300,3,2,2
+5/1/2017,Colon Cancer Treatment,1600,3,2,2
+11/1/2017,Colon Cancer Treatment,1300,2,1,1
+10/1/2017,Colon Cancer Treatment,,2,2,2
+4/1/2018,Colonoscopy,27100,48,17,0
+8/1/2017,Colonoscopy,27100,44,6,2
+12/1/2017,Colonoscopy,27100,24,12,0
+2/1/2018,Colonoscopy,27100,21,11,0
+1/1/2018,Colonoscopy,22200,32,16,1
+7/1/2017,Colonoscopy,22200,27,4,0
+6/1/2017,Colonoscopy,27100,11,4,0
+3/1/2018,Colonoscopy,22200,47,19,0
+5/1/2017,Colonoscopy,22200,8,3,1
+11/1/2017,Colonoscopy,22200,24,15,1
+10/1/2017,Colonoscopy,22200,20,9,1
+9/1/2017,Colonoscopy,500,32,11,0
+4/1/2018,Colon Resection Surgery,10,2,0,0
+8/1/2017,Colon Resection Surgery,10,8,2,2
+12/1/2017,Colon Resection Surgery,10,1,1,1
+2/1/2018,Colon Resection Surgery,10,7,2,2
+1/1/2018,Colon Resection Surgery,10,1,1,1
+7/1/2017,Colon Resection Surgery,10,5,1,0
+6/1/2017,Colon Resection Surgery,10,3,1,1
+3/1/2018,Colon Resection Surgery,20,8,2,1
+5/1/2017,Colon Resection Surgery,10,1,0,0
+11/1/2017,Colon Resection Surgery,20,1,1,0
+10/1/2017,Colon Resection Surgery,10,1,0,0
+9/1/2017,Colon Resection Surgery,500,4,3,0
+4/1/2018,Colposcopy,6600,4,2,0
+8/1/2017,Colposcopy,8100,2,0,0
+12/1/2017,Colposcopy,6600,6,6,0
+2/1/2018,Colposcopy,6600,7,1,0
+1/1/2018,Colposcopy,6600,3,1,0
+7/1/2017,Colposcopy,5400,4,0,0
+6/1/2017,Colposcopy,6600,2,1,0
+3/1/2018,Colposcopy,5400,5,2,0
+5/1/2017,Colposcopy,6600,2,0,0
+11/1/2017,Colposcopy,6600,7,4,0
+10/1/2017,Colposcopy,6600,5,0,0
+9/1/2017,Colposcopy,500,2,1,0
+4/1/2018,Congenital Heart Surgery,30,5,2,0
+8/1/2017,Congenital Heart Surgery,30,2,1,0
+12/1/2017,Congenital Heart Surgery,20,2,1,0
+2/1/2018,Congenital Heart Surgery,20,1,1,1
+1/1/2018,Congenital Heart Surgery,40,1,1,1
+7/1/2017,Congenital Heart Surgery,20,2,0,0
+6/1/2017,Congenital Heart Surgery,20,4,0,0
+3/1/2018,Congenital Heart Surgery,40,6,2,0
+5/1/2017,Congenital Heart Surgery,20,3,0,0
+11/1/2017,Congenital Heart Surgery,,3,3,3
+4/1/2018,Coronary Angiography,4400,103,59,12
+8/1/2017,Coronary Angiography,4400,145,80,55
+12/1/2017,Coronary Angiography,4400,100,70,45
+2/1/2018,Coronary Angiography,4400,150,78,18
+1/1/2018,Coronary Angiography,4400,100,73,38
+7/1/2017,Coronary Angiography,3600,147,60,35
+6/1/2017,Coronary Angiography,4400,91,40,28
+3/1/2018,Coronary Angiography,3600,182,102,24
+5/1/2017,Coronary Angiography,4400,135,59,41
+11/1/2017,Coronary Angiography,3600,174,145,105
+10/1/2017,Coronary Angiography,3600,36,29,17
+9/1/2017,Coronary Angiography,,89,62,42
+4/1/2018,Coronary Angioplasty,880,69,37,9
+8/1/2017,Coronary Angioplasty,880,90,47,22
+12/1/2017,Coronary Angioplasty,880,65,44,11
+2/1/2018,Coronary Angioplasty,880,125,68,20
+1/1/2018,Coronary Angioplasty,880,89,42,11
+7/1/2017,Coronary Angioplasty,880,107,41,20
+6/1/2017,Coronary Angioplasty,1000,79,28,15
+3/1/2018,Coronary Angioplasty,880,144,68,11
+5/1/2017,Coronary Angioplasty,880,105,31,23
+11/1/2017,Coronary Angioplasty,720,69,52,24
+10/1/2017,Coronary Angioplasty,720,40,33,18
+9/1/2017,Coronary Angioplasty,,81,49,20
+4/1/2018,Coronary Artery Bypass Grafting,500,169,76,49
+8/1/2017,Coronary Artery Bypass Grafting,500,33,13,5
+12/1/2017,Coronary Artery Bypass Grafting,500,31,23,18
+2/1/2018,Coronary Artery Bypass Grafting,500,95,60,45
+1/1/2018,Coronary Artery Bypass Grafting,500,54,32,22
+7/1/2017,Coronary Artery Bypass Grafting,500,38,14,10
+6/1/2017,Coronary Artery Bypass Grafting,500,16,8,5
+3/1/2018,Coronary Artery Bypass Grafting,500,156,103,66
+5/1/2017,Coronary Artery Bypass Grafting,500,24,10,4
+11/1/2017,Coronary Artery Bypass Grafting,500,12,7,6
+10/1/2017,Coronary Artery Bypass Grafting,500,12,7,6
+9/1/2017,Coronary Artery Bypass Grafting,500,13,9,6
+4/1/2018,Cranial CyberKnife Radiosurgery,,2,0,0
+8/1/2017,Cranial CyberKnife Radiosurgery,,2,1,0
+7/1/2017,Cranial CyberKnife Radiosurgery,,3,0,0
+6/1/2017,Cranial CyberKnife Radiosurgery,,1,0,0
+3/1/2018,Cranial CyberKnife Radiosurgery,,1,1,1
+11/1/2017,Cranial CyberKnife Radiosurgery,,2,1,1
+9/1/2017,Cranial CyberKnife Radiosurgery,,1,1,1
+4/1/2018,Craniotomy,5400,1,1,0
+8/1/2017,Craniotomy,6600,2,1,0
+12/1/2017,Craniotomy,5400,1,1,0
+1/1/2018,Craniotomy,5400,2,1,0
+7/1/2017,Craniotomy,5400,2,1,1
+6/1/2017,Craniotomy,5400,2,0,0
+3/1/2018,Craniotomy,4400,2,2,0
+5/1/2017,Craniotomy,5400,1,0,0
+11/1/2017,Craniotomy,5400,1,1,0
+10/1/2017,Craniotomy,5400,1,0,0
+8/1/2017,Cryotherapy,5400,8,3,0
+1/1/2018,Cryotherapy,6600,1,1,0
+7/1/2017,Cryotherapy,5400,5,1,0
+6/1/2017,Cryotherapy,8100,6,1,1
+5/1/2017,Cryotherapy,500,1,0,0
+4/1/2018,C Section,8100,22,10,3
+8/1/2017,C Section,9900,37,13,4
+12/1/2017,C Section,9900,23,14,5
+2/1/2018,C Section,8100,20,7,3
+1/1/2018,C Section,8100,26,18,2
+7/1/2017,C Section,9900,21,11,4
+6/1/2017,C Section,8100,12,6,1
+3/1/2018,C Section,8100,14,4,0
+5/1/2017,C Section,9900,15,4,1
+11/1/2017,C Section,8100,30,12,0
+10/1/2017,C Section,9900,28,13,1
+9/1/2017,C Section,,30,14,4
+4/1/2018,Cyberknife,1300,10,4,0
+8/1/2017,Cyberknife,1300,10,3,0
+12/1/2017,Cyberknife,1300,2,1,0
+2/1/2018,Cyberknife,1300,6,2,0
+1/1/2018,Cyberknife,1300,9,5,1
+7/1/2017,Cyberknife,1300,3,1,1
+6/1/2017,Cyberknife,1600,4,0,0
+3/1/2018,Cyberknife,1300,14,2,0
+5/1/2017,Cyberknife,1000,3,1,1
+11/1/2017,Cyberknife,1300,11,4,1
+10/1/2017,Cyberknife,1300,4,1,0
+9/1/2017,Cyberknife,,6,1,0
+4/1/2018,Cystectomy,1600,4,1,1
+8/1/2017,Cystectomy,1600,2,1,1
+12/1/2017,Cystectomy,1600,6,4,4
+2/1/2018,Cystectomy,1300,4,3,2
+1/1/2018,Cystectomy,1300,1,0,0
+7/1/2017,Cystectomy,1300,6,4,4
+6/1/2017,Cystectomy,1300,4,4,4
+3/1/2018,Cystectomy,1300,6,4,3
+5/1/2017,Cystectomy,1300,4,3,3
+11/1/2017,Cystectomy,1300,11,6,3
+10/1/2017,Cystectomy,1300,1,1,1
+9/1/2017,Cystectomy,500,2,1,1
+4/1/2018,Decompression Surgery,320,1,1,1
+12/1/2017,Decompression Surgery,320,1,1,0
+2/1/2018,Decompression Surgery,260,2,2,2
+1/1/2018,Decompression Surgery,260,2,2,1
+7/1/2017,Decompression Surgery,210,1,1,1
+5/1/2017,Decompression Surgery,500,2,1,1
+4/1/2018,Decortication,500,4,2,0
+8/1/2017,Decortication,500,7,3,0
+7/1/2017,Decortication,500,2,0,0
+6/1/2017,Decortication,500,1,0,0
+5/1/2017,Decortication,500,1,0,0
+10/1/2017,Decortication,500,1,0,0
+9/1/2017,Decortication,500,1,0,0
+4/1/2018,Deep Brain Stimulation,1300,4,1,0
+8/1/2017,Deep Brain Stimulation,1600,3,0,0
+12/1/2017,Deep Brain Stimulation,1300,4,2,1
+2/1/2018,Deep Brain Stimulation,1900,6,2,0
+1/1/2018,Deep Brain Stimulation,1000,3,1,0
+7/1/2017,Deep Brain Stimulation,1300,2,0,0
+6/1/2017,Deep Brain Stimulation,1300,3,0,0
+3/1/2018,Deep Brain Stimulation,1000,16,6,0
+5/1/2017,Deep Brain Stimulation,1300,1,1,1
+11/1/2017,Deep Brain Stimulation,1000,5,2,0
+10/1/2017,Deep Brain Stimulation,1300,2,1,0
+9/1/2017,Deep Brain Stimulation,500,7,2,0
+4/1/2018,Dental Braces,1300,5,2,0
+8/1/2017,Dental Braces,1300,8,0,0
+12/1/2017,Dental Braces,1600,3,2,0
+2/1/2018,Dental Braces,1300,3,2,0
+1/1/2018,Dental Braces,1300,4,0,0
+7/1/2017,Dental Braces,1600,5,0,0
+6/1/2017,Dental Braces,1300,4,0,0
+3/1/2018,Dental Braces,1300,7,3,0
+11/1/2017,Dental Braces,1300,2,1,0
+10/1/2017,Dental Braces,1300,2,0,0
+9/1/2017,Dental Braces,1300,2,2,0
+8/1/2017,Dental Implant,500,6,1,0
+12/1/2017,Dental Implant,500,1,1,0
+2/1/2018,Dental Implant,500,1,0,0
+1/1/2018,Dental Implant,500,3,1,0
+7/1/2017,Dental Implant,500,1,0,0
+3/1/2018,Dental Implant,500,3,0,0
+11/1/2017,Dental Implant,500,1,1,0
+10/1/2017,Dental Implant,500,4,3,1
+9/1/2017,Dental Implant,500,3,0,0
+4/1/2018,Dermabrasion,1600,2,0,0
+8/1/2017,Dermabrasion,1600,2,0,0
+7/1/2017,Dermabrasion,1600,1,1,0
+6/1/2017,Dermabrasion,1600,1,0,0
+3/1/2018,Dermabrasion,1600,2,1,0
+5/1/2017,Dermabrasion,1600,1,0,0
+11/1/2017,Dermabrasion,1900,1,0,0
+9/1/2017,Dermabrasion,500,1,0,0
+4/1/2018,Diabetic Foot Surgery,500,1,0,0
+4/1/2018,Dialysis,40500,98,76,6
+8/1/2017,Dialysis,49500,26,17,6
+12/1/2017,Dialysis,49500,60,56,2
+2/1/2018,Dialysis,40500,75,48,2
+1/1/2018,Dialysis,33100,63,48,4
+7/1/2017,Dialysis,33100,14,3,0
+6/1/2017,Dialysis,49500,7,3,2
+3/1/2018,Dialysis,33100,151,92,2
+5/1/2017,Dialysis,40500,6,2,0
+11/1/2017,Dialysis,40500,69,64,9
+10/1/2017,Dialysis,49500,92,90,1
+9/1/2017,Dialysis,,28,22,5
+4/1/2018,Digital Subtraction Angiography,880,1,0,0
+8/1/2017,Digital Subtraction Angiography,1000,23,6,1
+12/1/2017,Digital Subtraction Angiography,880,8,7,1
+2/1/2018,Digital Subtraction Angiography,880,16,5,0
+1/1/2018,Digital Subtraction Angiography,880,16,10,1
+7/1/2017,Digital Subtraction Angiography,880,20,2,0
+6/1/2017,Digital Subtraction Angiography,720,10,2,0
+3/1/2018,Digital Subtraction Angiography,880,5,2,0
+5/1/2017,Digital Subtraction Angiography,880,11,1,0
+11/1/2017,Digital Subtraction Angiography,720,13,4,0
+10/1/2017,Digital Subtraction Angiography,880,13,12,4
+9/1/2017,Digital Subtraction Angiography,880,16,6,1
+8/1/2017,Direct Visual Internal Urethrotomy,30,3,2,1
+2/1/2018,Direct Visual Internal Urethrotomy,500,1,1,1
+4/1/2018,Discectomy,2400,2,0,0
+8/1/2017,Discectomy,2400,6,3,2
+12/1/2017,Discectomy,1900,6,4,3
+7/1/2017,Discectomy,1900,5,2,1
+6/1/2017,Discectomy,1900,4,3,3
+3/1/2018,Discectomy,1900,1,1,0
+5/1/2017,Discectomy,1600,6,3,2
+11/1/2017,Discectomy,1600,8,3,2
+10/1/2017,Discectomy,,1,1,0
+4/1/2018,Eardrum Repair Surgery,500,3,0,0
+8/1/2017,Eardrum Repair Surgery,10,42,16,2
+12/1/2017,Eardrum Repair Surgery,20,47,28,3
+2/1/2018,Eardrum Repair Surgery,20,38,12,4
+1/1/2018,Eardrum Repair Surgery,10,42,21,2
+7/1/2017,Eardrum Repair Surgery,10,56,14,2
+6/1/2017,Eardrum Repair Surgery,10,24,6,1
+3/1/2018,Eardrum Repair Surgery,30,58,29,9
+5/1/2017,Eardrum Repair Surgery,10,21,4,0
+11/1/2017,Eardrum Repair Surgery,20,33,18,1
+10/1/2017,Eardrum Repair Surgery,20,32,18,1
+9/1/2017,Eardrum Repair Surgery,500,32,18,4
+4/1/2018,Echocardiography,500,29,18,1
+8/1/2017,Echocardiography,500,6,2,0
+12/1/2017,Echocardiography,500,38,17,0
+2/1/2018,Echocardiography,500,25,12,0
+1/1/2018,Echocardiography,500,31,19,1
+7/1/2017,Echocardiography,500,2,1,0
+6/1/2017,Echocardiography,500,4,1,0
+3/1/2018,Echocardiography,500,29,18,0
+5/1/2017,Echocardiography,500,2,1,0
+11/1/2017,Echocardiography,500,24,17,0
+10/1/2017,Echocardiography,500,22,13,0
+9/1/2017,Echocardiography,500,17,5,0
+4/1/2018,Elbow Arthroscopy,500,1,0,0
+4/1/2018,Elbow Arthroscopy,40,1,0,0
+8/1/2017,Elbow Arthroscopy,30,4,1,0
+2/1/2018,Elbow Arthroscopy,50,2,1,1
+6/1/2017,Elbow Arthroscopy,50,1,0,0
+3/1/2018,Elbow Arthroscopy,40,1,1,0
+5/1/2017,Elbow Arthroscopy,20,1,1,1
+11/1/2017,Elbow Arthroscopy,40,1,0,0
+8/1/2017,Electroconclusive Therapy ECT,,3,0,0
+1/1/2018,Electroconclusive Therapy ECT,,2,1,0
+7/1/2017,Electroconclusive Therapy ECT,,1,0,0
+6/1/2017,Electroconclusive Therapy ECT,,4,1,1
+3/1/2018,Electroconclusive Therapy ECT,,1,0,0
+5/1/2017,Electroconclusive Therapy ECT,,2,1,1
+9/1/2017,Electroconclusive Therapy ECT,,1,1,0
+8/1/2017,Endoscopic Mucosal Resection EMR,10,1,1,0
+12/1/2017,Endoscopic Mucosal Resection EMR,10,1,0,0
+2/1/2018,Endoscopic Mucosal Resection EMR,10,1,1,0
+1/1/2018,Endoscopic Mucosal Resection EMR,10,1,1,1
+7/1/2017,Endoscopic Mucosal Resection EMR,10,1,1,0
+6/1/2017,Endoscopic Mucosal Resection EMR,10,1,1,1
+3/1/2018,Endoscopic Mucosal Resection EMR,10,2,0,0
+5/1/2017,Endoscopic Mucosal Resection EMR,10,1,1,0
+11/1/2017,Endoscopic Mucosal Resection EMR,10,3,2,0
+10/1/2017,Endoscopic Mucosal Resection EMR,10,2,1,0
+9/1/2017,Endoscopic Mucosal Resection EMR,,1,0,0
+4/1/2018,Endoscopic Retrograde Cholangiopancreatography ERCP,140,24,11,1
+8/1/2017,Endoscopic Retrograde Cholangiopancreatography ERCP,70,39,10,3
+12/1/2017,Endoscopic Retrograde Cholangiopancreatography ERCP,90,31,19,1
+2/1/2018,Endoscopic Retrograde Cholangiopancreatography ERCP,70,40,10,1
+1/1/2018,Endoscopic Retrograde Cholangiopancreatography ERCP,210,55,31,3
+7/1/2017,Endoscopic Retrograde Cholangiopancreatography ERCP,210,38,5,1
+6/1/2017,Endoscopic Retrograde Cholangiopancreatography ERCP,90,14,4,2
+3/1/2018,Endoscopic Retrograde Cholangiopancreatography ERCP,210,44,11,2
+5/1/2017,Endoscopic Retrograde Cholangiopancreatography ERCP,90,2,1,1
+11/1/2017,Endoscopic Retrograde Cholangiopancreatography ERCP,70,47,25,5
+10/1/2017,Endoscopic Retrograde Cholangiopancreatography ERCP,70,38,20,3
+9/1/2017,Endoscopic Retrograde Cholangiopancreatography ERCP,500,41,11,1
+4/1/2018,Endoscopic Sinus Surgery,590,2,1,0
+8/1/2017,Endoscopic Sinus Surgery,720,2,0,0
+1/1/2018,Endoscopic Sinus Surgery,590,1,0,0
+7/1/2017,Endoscopic Sinus Surgery,590,4,1,0
+6/1/2017,Endoscopic Sinus Surgery,590,5,2,1
+3/1/2018,Endoscopic Sinus Surgery,590,5,2,1
+5/1/2017,Endoscopic Sinus Surgery,590,2,0,0
+11/1/2017,Endoscopic Sinus Surgery,590,1,1,0
+9/1/2017,Endoscopic Sinus Surgery,,4,3,1
+4/1/2018,Endoscopy,49500,144,61,0
+8/1/2017,Endoscopy,49500,150,23,1
+12/1/2017,Endoscopy,49500,93,56,0
+2/1/2018,Endoscopy,49500,136,63,0
+1/1/2018,Endoscopy,40500,96,54,2
+7/1/2017,Endoscopy,40500,135,21,2
+6/1/2017,Endoscopy,49500,56,8,1
+3/1/2018,Endoscopy,40500,195,88,0
+5/1/2017,Endoscopy,49500,38,6,1
+11/1/2017,Endoscopy,49500,124,75,4
+10/1/2017,Endoscopy,49500,116,55,1
+9/1/2017,Endoscopy,500,84,28,1
+4/1/2018,Enteroscopy,720,5,3,0
+8/1/2017,Enteroscopy,720,7,0,0
+12/1/2017,Enteroscopy,590,4,2,0
+2/1/2018,Enteroscopy,720,6,2,0
+1/1/2018,Enteroscopy,720,2,1,0
+7/1/2017,Enteroscopy,720,6,0,0
+6/1/2017,Enteroscopy,720,2,0,0
+3/1/2018,Enteroscopy,590,17,7,0
+5/1/2017,Enteroscopy,720,3,0,0
+11/1/2017,Enteroscopy,590,3,2,1
+10/1/2017,Enteroscopy,720,4,4,1
+9/1/2017,Enteroscopy,500,2,2,0
+4/1/2018,Esophageal Manometry,880,2,0,0
+8/1/2017,Esophageal Manometry,880,6,2,0
+12/1/2017,Esophageal Manometry,880,1,1,0
+2/1/2018,Esophageal Manometry,720,3,2,1
+1/1/2018,Esophageal Manometry,720,1,0,0
+7/1/2017,Esophageal Manometry,880,9,0,0
+6/1/2017,Esophageal Manometry,720,2,2,1
+3/1/2018,Esophageal Manometry,720,7,4,0
+5/1/2017,Esophageal Manometry,590,2,0,0
+11/1/2017,Esophageal Manometry,500,3,1,0
+4/1/2018,Extraction of Wisdom Tooth,500,6,1,0
+1/1/2018,Extraction of Wisdom Tooth,500,2,1,0
+10/1/2017,Extraction of Wisdom Tooth,500,3,1,0
+4/1/2018,Eyelid Surgery,500,3,0,0
+8/1/2017,Eyelid Surgery,500,3,1,1
+12/1/2017,Eyelid Surgery,500,2,0,0
+2/1/2018,Eyelid Surgery,500,6,2,0
+1/1/2018,Eyelid Surgery,500,5,0,0
+7/1/2017,Eyelid Surgery,500,5,0,0
+6/1/2017,Eyelid Surgery,500,1,0,0
+5/1/2017,Eyelid Surgery,500,1,1,1
+10/1/2017,Eyelid Surgery,500,1,0,0
+9/1/2017,Eyelid Surgery,500,2,2,0
+8/1/2017,Facelift Surgery,390,3,1,0
+7/1/2017,Facelift Surgery,480,4,0,0
+5/1/2017,Facelift Surgery,390,4,0,0
+11/1/2017,Facelift Surgery,480,1,0,0
+2/1/2018,Face Transplant,1000,2,0,0
+1/1/2018,Face Transplant,140,2,1,0
+7/1/2017,Face Transplant,480,4,0,0
+3/1/2018,Face Transplant,1000,1,0,0
+5/1/2017,Face Transplant,,2,0,0
+4/1/2018,Fetal Echocardiography,500,1,0,0
+4/1/2018,Fetal Echocardiography,500,10,7,0
+8/1/2017,Fetal Echocardiography,500,13,2,0
+12/1/2017,Fetal Echocardiography,500,13,11,0
+2/1/2018,Fetal Echocardiography,500,15,7,0
+1/1/2018,Fetal Echocardiography,500,10,4,0
+7/1/2017,Fetal Echocardiography,500,20,1,0
+6/1/2017,Fetal Echocardiography,500,3,1,0
+3/1/2018,Fetal Echocardiography,500,20,12,0
+5/1/2017,Fetal Echocardiography,500,8,1,0
+11/1/2017,Fetal Echocardiography,500,8,6,0
+10/1/2017,Fetal Echocardiography,500,13,5,0
+9/1/2017,Fetal Echocardiography,500,10,5,0
+4/1/2018,Fibroidectomy,70,4,1,1
+8/1/2017,Fibroidectomy,50,6,4,2
+12/1/2017,Fibroidectomy,50,11,0,0
+2/1/2018,Fibroidectomy,70,2,0,0
+1/1/2018,Fibroidectomy,70,4,2,2
+7/1/2017,Fibroidectomy,70,8,5,4
+6/1/2017,Fibroidectomy,70,1,0,0
+3/1/2018,Fibroidectomy,70,3,2,1
+5/1/2017,Fibroidectomy,70,1,0,0
+11/1/2017,Fibroidectomy,50,1,0,0
+10/1/2017,Fibroidectomy,40,2,1,0
+9/1/2017,Fibroidectomy,,1,1,1
+4/1/2018,Fibroids Removal Surgery,500,1,1,1
+4/1/2018,Fibroids Removal Surgery,500,68,16,2
+8/1/2017,Fibroids Removal Surgery,500,3,2,1
+12/1/2017,Fibroids Removal Surgery,500,16,10,4
+2/1/2018,Fibroids Removal Surgery,500,20,5,0
+1/1/2018,Fibroids Removal Surgery,500,11,5,2
+7/1/2017,Fibroids Removal Surgery,500,5,3,2
+6/1/2017,Fibroids Removal Surgery,500,1,0,0
+3/1/2018,Fibroids Removal Surgery,500,25,10,1
+5/1/2017,Fibroids Removal Surgery,500,6,4,3
+11/1/2017,Fibroids Removal Surgery,500,16,12,1
+10/1/2017,Fibroids Removal Surgery,500,3,3,1
+9/1/2017,Fibroids Removal Surgery,500,7,5,2
+2/1/2018,Flexible Sigmoidoscopy,500,1,0,0
+4/1/2018,Fracture Fixation,50,3,1,1
+12/1/2017,Fracture Fixation,40,1,0,0
+2/1/2018,Fracture Fixation,30,3,1,1
+1/1/2018,Fracture Fixation,50,1,1,1
+3/1/2018,Fracture Fixation,40,2,1,1
+11/1/2017,Fracture Fixation,30,2,0,0
+8/1/2017,Frontal Sinus Surgery,70,1,0,0
+12/1/2017,Frontal Sinus Surgery,40,1,1,0
+6/1/2017,Frontal Sinus Surgery,50,2,0,0
+11/1/2017,Frontal Sinus Surgery,500,1,0,0
+4/1/2018,Functional Endoscopic Sinus Surgery,390,1,1,0
+8/1/2017,Functional Endoscopic Sinus Surgery,480,1,0,0
+12/1/2017,Functional Endoscopic Sinus Surgery,390,3,2,0
+2/1/2018,Functional Endoscopic Sinus Surgery,390,1,1,0
+1/1/2018,Functional Endoscopic Sinus Surgery,390,6,3,0
+7/1/2017,Functional Endoscopic Sinus Surgery,480,4,1,0
+3/1/2018,Functional Endoscopic Sinus Surgery,390,3,1,0
+5/1/2017,Functional Endoscopic Sinus Surgery,390,3,0,0
+11/1/2017,Functional Endoscopic Sinus Surgery,,4,1,0
+4/1/2018,Gallbladder Removal Surgery,880,58,28,7
+8/1/2017,Gallbladder Removal Surgery,590,57,23,9
+12/1/2017,Gallbladder Removal Surgery,880,68,47,11
+2/1/2018,Gallbladder Removal Surgery,720,48,25,9
+1/1/2018,Gallbladder Removal Surgery,720,53,25,8
+7/1/2017,Gallbladder Removal Surgery,480,54,27,17
+6/1/2017,Gallbladder Removal Surgery,720,38,17,9
+3/1/2018,Gallbladder Removal Surgery,390,95,42,8
+5/1/2017,Gallbladder Removal Surgery,390,32,13,12
+11/1/2017,Gallbladder Removal Surgery,480,60,36,8
+10/1/2017,Gallbladder Removal Surgery,880,56,34,11
+9/1/2017,Gallbladder Removal Surgery,,49,28,9
+4/1/2018,Gamma Knife Radiosurgery,500,4,1,0
+4/1/2018,Gamma Knife Radiosurgery,590,25,5,0
+8/1/2017,Gamma Knife Radiosurgery,590,30,6,0
+12/1/2017,Gamma Knife Radiosurgery,590,7,5,1
+2/1/2018,Gamma Knife Radiosurgery,480,17,5,0
+1/1/2018,Gamma Knife Radiosurgery,480,16,5,0
+7/1/2017,Gamma Knife Radiosurgery,590,24,7,0
+6/1/2017,Gamma Knife Radiosurgery,590,7,3,0
+3/1/2018,Gamma Knife Radiosurgery,480,20,7,2
+5/1/2017,Gamma Knife Radiosurgery,480,7,0,0
+11/1/2017,Gamma Knife Radiosurgery,590,32,4,0
+10/1/2017,Gamma Knife Radiosurgery,590,6,3,0
+9/1/2017,Gamma Knife Radiosurgery,500,15,6,0
+4/1/2018,Gastric Bypass Surgery,880,1,1,1
+8/1/2017,Gastric Bypass Surgery,720,3,1,1
+2/1/2018,Gastric Bypass Surgery,720,2,0,0
+1/1/2018,Gastric Bypass Surgery,880,1,1,1
+7/1/2017,Gastric Bypass Surgery,1000,4,0,0
+6/1/2017,Gastric Bypass Surgery,720,4,2,2
+3/1/2018,Gastric Bypass Surgery,720,1,0,0
+5/1/2017,Gastric Bypass Surgery,1000,2,1,0
+11/1/2017,Gastric Bypass Surgery,880,6,6,5
+10/1/2017,Gastric Bypass Surgery,1000,1,0,0
+9/1/2017,Gastric Bypass Surgery,500,1,0,0
+4/1/2018,Gastric Cancer Surgery,10,2,1,1
+12/1/2017,Gastric Cancer Surgery,10,1,1,1
+2/1/2018,Gastric Cancer Surgery,20,3,2,2
+3/1/2018,Gastric Cancer Surgery,10,1,1,1
+8/1/2017,Hair Transplant,33100,1,0,0
+12/1/2017,Hair Transplant,33100,2,1,0
+6/1/2017,Hair Transplant,33100,2,0,0
+3/1/2018,Hair Transplant,27100,3,1,0
+5/1/2017,Hair Transplant,33100,5,1,0
+11/1/2017,Hair Transplant,33100,3,1,0
+9/1/2017,Hair Transplant,500,1,0,0
+4/1/2018,Hearing Aid,500,2,1,0
+8/1/2017,Hearing Aid,500,2,1,0
+12/1/2017,Hearing Aid,500,4,2,0
+2/1/2018,Hearing Aid,500,2,1,0
+1/1/2018,Hearing Aid,500,3,0,0
+7/1/2017,Hearing Aid,500,3,0,0
+11/1/2017,Hearing Aid,500,1,0,0
+10/1/2017,Hearing Aid,500,1,1,0
+9/1/2017,Hearing Aid,500,2,2,0
+4/1/2018,Heart Transplant,4400,26,8,0
+8/1/2017,Heart Transplant,4400,13,6,1
+12/1/2017,Heart Transplant,3600,5,2,0
+2/1/2018,Heart Transplant,3600,14,4,1
+1/1/2018,Heart Transplant,4400,8,2,0
+7/1/2017,Heart Transplant,3600,5,2,0
+6/1/2017,Heart Transplant,3600,3,0,0
+3/1/2018,Heart Transplant,3600,23,10,0
+5/1/2017,Heart Transplant,4400,7,3,0
+11/1/2017,Heart Transplant,4400,7,2,0
+10/1/2017,Heart Transplant,5400,10,6,0
+9/1/2017,Heart Transplant,,6,2,1
+4/1/2018,Heart Valve Replacement,480,103,47,6
+8/1/2017,Heart Valve Replacement,1300,43,23,9
+12/1/2017,Heart Valve Replacement,1300,38,29,8
+2/1/2018,Heart Valve Replacement,1000,79,35,4
+1/1/2018,Heart Valve Replacement,1000,77,32,3
+7/1/2017,Heart Valve Replacement,1300,54,18,4
+6/1/2017,Heart Valve Replacement,1000,37,12,4
+3/1/2018,Heart Valve Replacement,1300,122,65,10
+5/1/2017,Heart Valve Replacement,1300,35,13,5
+11/1/2017,Heart Valve Replacement,1300,34,20,5
+10/1/2017,Heart Valve Replacement,720,29,18,7
+9/1/2017,Heart Valve Replacement,,22,11,6
+4/1/2018,Heart Valve Surgery,720,24,11,6
+8/1/2017,Heart Valve Surgery,260,23,9,4
+12/1/2017,Heart Valve Surgery,390,5,2,2
+2/1/2018,Heart Valve Surgery,390,18,11,6
+1/1/2018,Heart Valve Surgery,480,16,5,2
+7/1/2017,Heart Valve Surgery,260,31,10,9
+6/1/2017,Heart Valve Surgery,590,10,6,3
+3/1/2018,Heart Valve Surgery,210,16,4,2
+5/1/2017,Heart Valve Surgery,260,9,7,6
+11/1/2017,Heart Valve Surgery,320,17,10,7
+10/1/2017,Heart Valve Surgery,720,7,5,2
+9/1/2017,Heart Valve Surgery,,20,10,7
+4/1/2018,Hernia Surgery,6600,56,31,11
+8/1/2017,Hernia Surgery,9900,55,29,18
+12/1/2017,Hernia Surgery,4400,35,21,5
+2/1/2018,Hernia Surgery,8100,28,11,6
+1/1/2018,Hernia Surgery,9900,54,30,7
+7/1/2017,Hernia Surgery,6600,54,22,13
+6/1/2017,Hernia Surgery,5400,24,11,8
+3/1/2018,Hernia Surgery,2900,78,44,15
+5/1/2017,Hernia Surgery,9900,25,13,8
+11/1/2017,Hernia Surgery,3600,30,19,9
+10/1/2017,Hernia Surgery,3600,18,13,7
+9/1/2017,Hernia Surgery,,26,13,5
+4/1/2018,Herniated Disc Surgery,500,1,0,0
+4/1/2018,Herniated Disc Surgery,170,5,2,0
+8/1/2017,Herniated Disc Surgery,110,5,0,0
+12/1/2017,Herniated Disc Surgery,110,7,4,1
+2/1/2018,Herniated Disc Surgery,140,8,1,0
+1/1/2018,Herniated Disc Surgery,140,6,2,0
+7/1/2017,Herniated Disc Surgery,110,16,2,0
+6/1/2017,Herniated Disc Surgery,110,5,2,1
+3/1/2018,Herniated Disc Surgery,140,1,1,0
+5/1/2017,Herniated Disc Surgery,140,4,1,0
+11/1/2017,Herniated Disc Surgery,140,2,1,1
+10/1/2017,Herniated Disc Surgery,140,5,2,0
+9/1/2017,Herniated Disc Surgery,170,6,4,0
+8/1/2017,High Risk Pregnancy,3600,2,2,0
+2/1/2018,High Risk Pregnancy,1900,1,1,0
+7/1/2017,High Risk Pregnancy,1600,1,0,0
+6/1/2017,High Risk Pregnancy,2900,2,0,0
+3/1/2018,High Risk Pregnancy,1600,1,1,0
+5/1/2017,High Risk Pregnancy,1900,2,0,0
+11/1/2017,High Risk Pregnancy,2400,1,1,0
+12/1/2017,Hip Arthroplasty,320,1,1,0
+2/1/2018,Hip Arthroplasty,260,1,0,0
+3/1/2018,Hip Arthroplasty,320,1,1,1
+5/1/2017,Hip Arthroplasty,,1,1,1
+4/1/2018,Hip Arthroscopy,500,2,0,0
+4/1/2018,Hip Arthroscopy,170,1,1,0
+8/1/2017,Hip Arthroscopy,210,5,2,1
+12/1/2017,Hip Arthroscopy,170,2,2,0
+1/1/2018,Hip Arthroscopy,170,3,3,1
+7/1/2017,Hip Arthroscopy,210,3,2,0
+6/1/2017,Hip Arthroscopy,170,1,0,0
+3/1/2018,Hip Arthroscopy,210,3,3,1
+5/1/2017,Hip Arthroscopy,170,1,0,0
+11/1/2017,Hip Arthroscopy,140,3,1,0
+9/1/2017,Hip Arthroscopy,,3,2,1
+4/1/2018,Hip Replacement,500,1,1,0
+4/1/2018,Hip Replacement,2400,8,3,0
+8/1/2017,Hip Replacement,2400,12,2,0
+12/1/2017,Hip Replacement,2400,9,5,1
+2/1/2018,Hip Replacement,1900,17,8,5
+1/1/2018,Hip Replacement,2400,12,8,0
+7/1/2017,Hip Replacement,2400,19,3,0
+6/1/2017,Hip Replacement,2400,13,4,2
+3/1/2018,Hip Replacement,2400,9,6,1
+5/1/2017,Hip Replacement,1900,10,2,2
+11/1/2017,Hip Replacement,1900,8,5,1
+10/1/2017,Hip Replacement,2400,6,1,0
+9/1/2017,Hip Replacement,500,8,5,0
+4/1/2018,Holter Monitoring,500,2,1,0
+8/1/2017,Holter Monitoring,500,11,4,1
+12/1/2017,Holter Monitoring,500,3,3,1
+2/1/2018,Holter Monitoring,500,6,3,0
+7/1/2017,Holter Monitoring,500,14,1,1
+6/1/2017,Holter Monitoring,500,4,1,1
+3/1/2018,Holter Monitoring,500,3,1,0
+5/1/2017,Holter Monitoring,500,3,0,0
+11/1/2017,Holter Monitoring,500,1,1,0
+9/1/2017,Holter Monitoring,500,5,1,0
+4/1/2018,Hysterectomy,500,5,3,1
+4/1/2018,Hysterectomy,22200,15,8,5
+8/1/2017,Hysterectomy,22200,8,3,1
+12/1/2017,Hysterectomy,27100,17,12,4
+2/1/2018,Hysterectomy,22200,22,13,2
+1/1/2018,Hysterectomy,22200,18,9,0
+7/1/2017,Hysterectomy,22200,11,6,2
+6/1/2017,Hysterectomy,22200,8,3,3
+3/1/2018,Hysterectomy,22200,17,11,2
+5/1/2017,Hysterectomy,22200,7,5,3
+11/1/2017,Hysterectomy,22200,14,7,0
+10/1/2017,Hysterectomy,22200,11,8,1
+9/1/2017,Hysterectomy,,5,3,1
+4/1/2018,Hysteroscopic Myomectomy,500,1,0,0
+4/1/2018,Hysteroscopic Myomectomy,210,1,1,1
+8/1/2017,Hysteroscopic Myomectomy,170,4,0,0
+1/1/2018,Hysteroscopic Myomectomy,210,2,2,0
+7/1/2017,Hysteroscopic Myomectomy,170,4,3,2
+3/1/2018,Hysteroscopic Myomectomy,170,2,0,0
+11/1/2017,Hysteroscopic Myomectomy,140,1,0,0
+10/1/2017,Hysteroscopic Myomectomy,210,1,1,1
+9/1/2017,Hysteroscopic Myomectomy,500,2,0,0
+4/1/2018,Hystrectomy,500,2,2,2
+8/1/2017,Hystrectomy,500,1,1,1
+12/1/2017,Hystrectomy,500,3,1,0
+2/1/2018,Hystrectomy,500,3,2,2
+7/1/2017,Hystrectomy,500,4,1,0
+3/1/2018,Hystrectomy,500,1,1,1
+10/1/2017,Hystrectomy,500,1,1,1
+4/1/2018,Implantable Cardioverter Defibrillator ICD,500,2,2,0
+4/1/2018,Implantable Cardioverter Defibrillator ICD,70,20,7,1
+8/1/2017,Implantable Cardioverter Defibrillator ICD,50,22,8,3
+12/1/2017,Implantable Cardioverter Defibrillator ICD,70,9,5,1
+2/1/2018,Implantable Cardioverter Defibrillator ICD,50,21,9,2
+1/1/2018,Implantable Cardioverter Defibrillator ICD,110,8,2,0
+7/1/2017,Implantable Cardioverter Defibrillator ICD,140,24,4,1
+6/1/2017,Implantable Cardioverter Defibrillator ICD,70,9,1,0
+3/1/2018,Implantable Cardioverter Defibrillator ICD,140,25,12,1
+5/1/2017,Implantable Cardioverter Defibrillator ICD,70,7,1,0
+11/1/2017,Implantable Cardioverter Defibrillator ICD,50,11,6,0
+10/1/2017,Implantable Cardioverter Defibrillator ICD,70,7,7,1
+9/1/2017,Implantable Cardioverter Defibrillator ICD,500,15,7,3
+4/1/2018,Insulin,33100,1,0,0
+12/1/2017,Insulin,27100,2,2,0
+2/1/2018,Insulin,27100,2,1,0
+1/1/2018,Insulin,22200,1,1,0
+7/1/2017,Insulin,22200,3,0,0
+6/1/2017,Insulin,33100,1,0,0
+3/1/2018,Insulin,22200,2,1,0
+5/1/2017,Insulin,27100,2,0,0
+11/1/2017,Insulin,27100,2,0,0
+10/1/2017,Insulin,27100,1,0,0
+9/1/2017,Insulin,27100,2,1,0
+8/1/2017,Intrauterine Insemination - IUI,500,5,0,0
+12/1/2017,Intrauterine Insemination - IUI,500,1,1,0
+1/1/2018,Intrauterine Insemination - IUI,500,2,1,1
+7/1/2017,Intrauterine Insemination - IUI,500,7,1,0
+6/1/2017,Intrauterine Insemination - IUI,500,5,0,0
+3/1/2018,Intrauterine Insemination - IUI,500,1,0,0
+5/1/2017,Intrauterine Insemination - IUI,500,1,0,0
+11/1/2017,Intrauterine Insemination - IUI,500,1,0,0
+10/1/2017,Intrauterine Insemination - IUI,500,1,1,0
+4/1/2018,In Vitro Fertilisation,500,1,1,0
+4/1/2018,In Vitro Fertilisation,320,3,1,0
+8/1/2017,In Vitro Fertilisation,390,12,4,1
+12/1/2017,In Vitro Fertilisation,480,2,2,0
+2/1/2018,In Vitro Fertilisation,320,3,1,0
+1/1/2018,In Vitro Fertilisation,320,2,1,0
+7/1/2017,In Vitro Fertilisation,480,11,5,0
+6/1/2017,In Vitro Fertilisation,320,13,3,1
+3/1/2018,In Vitro Fertilisation,320,6,1,0
+5/1/2017,In Vitro Fertilisation,390,7,1,0
+11/1/2017,In Vitro Fertilisation,390,5,5,1
+10/1/2017,In Vitro Fertilisation,480,2,2,0
+9/1/2017,In Vitro Fertilisation,500,5,2,0
+4/1/2018,IVF treatment,8100,2,2,2
+8/1/2017,IVF treatment,6600,21,9,0
+12/1/2017,IVF treatment,27100,5,4,4
+2/1/2018,IVF treatment,9900,7,7,7
+1/1/2018,IVF treatment,9900,7,7,5
+7/1/2017,IVF treatment,4400,40,8,0
+6/1/2017,IVF treatment,9900,16,2,0
+3/1/2018,IVF treatment,3600,12,7,3
+5/1/2017,IVF treatment,6600,13,3,0
+11/1/2017,IVF treatment,18100,17,13,5
+10/1/2017,IVF treatment,9900,10,10,4
+9/1/2017,IVF treatment,,17,16,4
+4/1/2018,Kidney Stone Removal,500,1,0,0
+4/1/2018,Kidney Stone Removal,6600,73,25,7
+8/1/2017,Kidney Stone Removal,5400,49,11,5
+12/1/2017,Kidney Stone Removal,5400,32,19,4
+2/1/2018,Kidney Stone Removal,5400,69,31,7
+1/1/2018,Kidney Stone Removal,6600,53,35,4
+7/1/2017,Kidney Stone Removal,6600,35,11,7
+6/1/2017,Kidney Stone Removal,4400,27,10,7
+3/1/2018,Kidney Stone Removal,5400,85,36,8
+5/1/2017,Kidney Stone Removal,6600,15,5,3
+11/1/2017,Kidney Stone Removal,5400,50,35,5
+10/1/2017,Kidney Stone Removal,5400,37,25,6
+9/1/2017,Kidney Stone Removal,,42,18,7
+4/1/2018,Kidney Transplant,500,24,14,1
+4/1/2018,Kidney Transplant,8100,53,23,1
+8/1/2017,Kidney Transplant,9900,110,54,5
+12/1/2017,Kidney Transplant,8100,55,33,6
+2/1/2018,Kidney Transplant,8100,43,22,4
+1/1/2018,Kidney Transplant,6600,67,34,6
+7/1/2017,Kidney Transplant,6600,107,43,3
+6/1/2017,Kidney Transplant,8100,101,49,0
+3/1/2018,Kidney Transplant,8100,48,18,4
+5/1/2017,Kidney Transplant,8100,93,34,3
+11/1/2017,Kidney Transplant,9900,65,38,5
+10/1/2017,Kidney Transplant,12100,27,18,4
+9/1/2017,Kidney Transplant,,60,34,0
+4/1/2018,Knee Arthroplasty,500,1,1,1
+4/1/2018,Knee Arthroplasty,320,10,3,1
+8/1/2017,Knee Arthroplasty,260,4,0,0
+12/1/2017,Knee Arthroplasty,210,6,4,2
+2/1/2018,Knee Arthroplasty,260,10,2,1
+1/1/2018,Knee Arthroplasty,320,2,0,0
+7/1/2017,Knee Arthroplasty,390,9,1,1
+6/1/2017,Knee Arthroplasty,210,5,1,1
+3/1/2018,Knee Arthroplasty,320,9,5,3
+5/1/2017,Knee Arthroplasty,260,1,0,0
+11/1/2017,Knee Arthroplasty,320,5,3,1
+10/1/2017,Knee Arthroplasty,320,2,2,0
+9/1/2017,Knee Arthroplasty,,2,2,0
+4/1/2018,Knee Arthroscopy,500,2,0,0
+4/1/2018,Knee Arthroscopy,1300,10,4,1
+8/1/2017,Knee Arthroscopy,1300,4,2,0
+12/1/2017,Knee Arthroscopy,1600,8,6,1
+2/1/2018,Knee Arthroscopy,1300,10,5,2
+1/1/2018,Knee Arthroscopy,1300,1,0,0
+7/1/2017,Knee Arthroscopy,1600,4,2,0
+6/1/2017,Knee Arthroscopy,1000,10,7,6
+3/1/2018,Knee Arthroscopy,1000,10,5,2
+5/1/2017,Knee Arthroscopy,1300,1,0,0
+11/1/2017,Knee Arthroscopy,1000,3,2,1
+10/1/2017,Knee Arthroscopy,1000,9,6,1
+9/1/2017,Knee Arthroscopy,,4,1,0
+4/1/2018,Knee Osteotomy,90,7,3,0
+8/1/2017,Knee Osteotomy,70,4,1,0
+12/1/2017,Knee Osteotomy,50,6,3,0
+2/1/2018,Knee Osteotomy,50,8,2,0
+1/1/2018,Knee Osteotomy,90,5,3,1
+7/1/2017,Knee Osteotomy,50,4,2,0
+6/1/2017,Knee Osteotomy,50,5,0,0
+3/1/2018,Knee Osteotomy,90,5,2,0
+5/1/2017,Knee Osteotomy,50,7,3,0
+11/1/2017,Knee Osteotomy,50,1,1,1
+10/1/2017,Knee Osteotomy,50,4,3,2
+9/1/2017,Knee Osteotomy,,4,2,1
+4/1/2018,Knee Replacement,8100,70,40,8
+8/1/2017,Knee Replacement,8100,100,35,13
+12/1/2017,Knee Replacement,8100,50,32,6
+2/1/2018,Knee Replacement,8100,67,35,2
+1/1/2018,Knee Replacement,8100,73,39,2
+7/1/2017,Knee Replacement,8100,63,18,3
+6/1/2017,Knee Replacement,8100,68,30,8
+3/1/2018,Knee Replacement,8100,100,47,8
+5/1/2017,Knee Replacement,8100,68,25,5
+11/1/2017,Knee Replacement,8100,55,35,11
+10/1/2017,Knee Replacement,12100,36,21,2
+9/1/2017,Knee Replacement,,62,39,3
+4/1/2018,Kyphoplasty,1600,2,2,0
+8/1/2017,Kyphoplasty,1300,5,1,0
+2/1/2018,Kyphoplasty,1300,1,1,0
+7/1/2017,Kyphoplasty,1300,1,0,0
+5/1/2017,Kyphoplasty,1300,1,0,0
+11/1/2017,Kyphoplasty,1300,2,1,0
+10/1/2017,Kyphoplasty,1300,1,0,0
+9/1/2017,Kyphoplasty,500,1,0,0
+4/1/2018,Laminectomy,4400,1,1,0
+2/1/2018,Laminectomy,4400,2,1,1
+1/1/2018,Laminectomy,4400,2,2,0
+3/1/2018,Laminectomy,3600,1,1,0
+5/1/2017,Laminectomy,3600,1,0,0
+11/1/2017,Laminectomy,500,1,1,0
+4/1/2018,Laparoscopic Cholecystectomy,4400,12,10,5
+8/1/2017,Laparoscopic Cholecystectomy,3600,12,7,6
+12/1/2017,Laparoscopic Cholecystectomy,3600,12,10,7
+2/1/2018,Laparoscopic Cholecystectomy,2900,6,6,1
+1/1/2018,Laparoscopic Cholecystectomy,3600,9,6,1
+7/1/2017,Laparoscopic Cholecystectomy,3600,18,11,8
+6/1/2017,Laparoscopic Cholecystectomy,3600,9,5,2
+3/1/2018,Laparoscopic Cholecystectomy,3600,13,7,5
+5/1/2017,Laparoscopic Cholecystectomy,3600,8,4,3
+11/1/2017,Laparoscopic Cholecystectomy,3600,17,13,9
+10/1/2017,Laparoscopic Cholecystectomy,3600,6,4,1
+9/1/2017,Laparoscopic Cholecystectomy,,10,7,6
+4/1/2018,Laparoscopic Myomectomy,480,14,2,0
+8/1/2017,Laparoscopic Myomectomy,480,3,0,0
+12/1/2017,Laparoscopic Myomectomy,480,6,4,0
+2/1/2018,Laparoscopic Myomectomy,480,6,3,0
+1/1/2018,Laparoscopic Myomectomy,480,1,1,0
+7/1/2017,Laparoscopic Myomectomy,480,4,0,0
+6/1/2017,Laparoscopic Myomectomy,320,2,1,0
+3/1/2018,Laparoscopic Myomectomy,480,20,5,0
+5/1/2017,Laparoscopic Myomectomy,390,6,3,1
+11/1/2017,Laparoscopic Myomectomy,390,6,2,0
+10/1/2017,Laparoscopic Myomectomy,390,3,2,0
+9/1/2017,Laparoscopic Myomectomy,500,1,0,0
+4/1/2018,Laparoscopic Surgery,14800,23,16,6
+8/1/2017,Laparoscopic Surgery,18100,29,9,1
+12/1/2017,Laparoscopic Surgery,14800,35,23,1
+2/1/2018,Laparoscopic Surgery,18100,16,8,2
+1/1/2018,Laparoscopic Surgery,14800,36,20,4
+7/1/2017,Laparoscopic Surgery,14800,12,3,1
+6/1/2017,Laparoscopic Surgery,12100,4,1,1
+3/1/2018,Laparoscopic Surgery,14800,28,10,2
+5/1/2017,Laparoscopic Surgery,14800,9,4,3
+11/1/2017,Laparoscopic Surgery,12100,36,19,2
+10/1/2017,Laparoscopic Surgery,12100,13,7,1
+9/1/2017,Laparoscopic Surgery,18100,17,4,1
+1/1/2018,Laryngectomy,720,1,0,0
+7/1/2017,Laryngectomy,880,1,1,0
+3/1/2018,Laryngectomy,880,1,0,0
+5/1/2017,Laryngectomy,500,1,1,0
+4/1/2018,Laser Hair Removal,14800,2,1,0
+8/1/2017,Laser Hair Removal,14800,10,0,0
+12/1/2017,Laser Hair Removal,14800,5,3,0
+2/1/2018,Laser Hair Removal,12100,2,0,0
+1/1/2018,Laser Hair Removal,14800,2,1,0
+7/1/2017,Laser Hair Removal,14800,1,0,0
+6/1/2017,Laser Hair Removal,14800,1,0,0
+3/1/2018,Laser Hair Removal,14800,5,1,0
+11/1/2017,Laser Hair Removal,14800,1,0,0
+10/1/2017,Laser Hair Removal,14800,1,0,0
+9/1/2017,Laser Hair Removal,500,2,0,0
+4/1/2018,Laser Prostatectomy,70,1,1,0
+12/1/2017,Laser Prostatectomy,90,1,1,0
+1/1/2018,Laser Prostatectomy,140,3,1,0
+7/1/2017,Laser Prostatectomy,110,6,1,1
+6/1/2017,Laser Prostatectomy,90,1,1,1
+3/1/2018,Laser Prostatectomy,110,1,1,0
+5/1/2017,Laser Prostatectomy,90,3,1,0
+11/1/2017,Laser Prostatectomy,,2,2,1
+4/1/2018,LASIK,500,1,0,0
+4/1/2018,LASIK,6600,22,9,0
+8/1/2017,LASIK,5400,7,0,0
+12/1/2017,LASIK,6600,9,5,0
+2/1/2018,LASIK,6600,1,0,0
+1/1/2018,LASIK,5400,19,3,0
+7/1/2017,LASIK,5400,4,0,0
+6/1/2017,LASIK,6600,2,1,0
+3/1/2018,LASIK,5400,28,8,0
+5/1/2017,LASIK,5400,3,0,0
+11/1/2017,LASIK,5400,6,2,0
+10/1/2017,LASIK,5400,12,6,0
+9/1/2017,LASIK,,6,1,0
+4/1/2018,Ligament and Tendon Repair,500,1,1,0
+8/1/2017,Ligament and Tendon Repair,20,2,1,1
+12/1/2017,Ligament and Tendon Repair,10,1,0,0
+2/1/2018,Ligament and Tendon Repair,10,1,1,1
+1/1/2018,Ligament and Tendon Repair,10,5,2,1
+7/1/2017,Ligament and Tendon Repair,10,3,2,2
+3/1/2018,Ligament and Tendon Repair,10,3,1,0
+5/1/2017,Ligament and Tendon Repair,10,1,0,0
+11/1/2017,Ligament and Tendon Repair,10,1,0,0
+10/1/2017,Ligament and Tendon Repair,10,1,0,0
+9/1/2017,Ligament and Tendon Repair,500,4,2,1
+4/1/2018,Lipectomy,170,1,1,1
+8/1/2017,Lipectomy,210,1,1,1
+12/1/2017,Lipectomy,140,2,1,1
+3/1/2018,Lipectomy,140,1,0,0
+11/1/2017,Lipectomy,,1,1,1
+4/1/2018,Liposuction,500,1,0,0
+4/1/2018,Liposuction,14800,15,6,0
+8/1/2017,Liposuction,12100,5,0,0
+12/1/2017,Liposuction,14800,5,2,1
+1/1/2018,Liposuction,12100,2,1,0
+7/1/2017,Liposuction,12100,4,1,0
+6/1/2017,Liposuction,18100,4,1,0
+3/1/2018,Liposuction,12100,10,5,0
+11/1/2017,Liposuction,12100,8,2,0
+10/1/2017,Liposuction,12100,3,3,0
+9/1/2017,Liposuction,,4,1,0
+4/1/2018,Lithotripsy,6600,38,17,3
+8/1/2017,Lithotripsy,6600,22,8,0
+12/1/2017,Lithotripsy,6600,22,9,0
+2/1/2018,Lithotripsy,6600,16,6,0
+1/1/2018,Lithotripsy,6600,31,8,1
+7/1/2017,Lithotripsy,6600,15,6,4
+6/1/2017,Lithotripsy,6600,11,3,2
+3/1/2018,Lithotripsy,5400,35,14,0
+5/1/2017,Lithotripsy,6600,14,6,3
+11/1/2017,Lithotripsy,6600,17,12,3
+10/1/2017,Lithotripsy,6600,30,18,3
+9/1/2017,Lithotripsy,,23,7,1
+4/1/2018,Liver Transplant,6600,61,22,2
+8/1/2017,Liver Transplant,9900,107,52,4
+12/1/2017,Liver Transplant,8100,67,35,6
+2/1/2018,Liver Transplant,6600,80,28,3
+1/1/2018,Liver Transplant,6600,71,42,11
+7/1/2017,Liver Transplant,6600,149,40,5
+6/1/2017,Liver Transplant,6600,73,28,4
+3/1/2018,Liver Transplant,6600,72,32,4
+5/1/2017,Liver Transplant,8100,82,35,2
+11/1/2017,Liver Transplant,8100,55,28,6
+10/1/2017,Liver Transplant,8100,36,26,4
+9/1/2017,Liver Transplant,6600,53,30,8
+8/1/2017,Lobectomy - Lungs,,1,0,0
+12/1/2017,Lobectomy - Lungs,,1,1,0
+1/1/2018,Lobectomy - Lungs,,2,0,0
+7/1/2017,Lobectomy - Lungs,,5,3,3
+6/1/2017,Lobectomy - Lungs,,1,0,0
+3/1/2018,Lobectomy - Lungs,,1,0,0
+9/1/2017,Lobectomy - Lungs,500,1,1,0
+4/1/2018,Lower Spine Surgery,10,3,2,1
+12/1/2017,Lower Spine Surgery,10,3,2,2
+2/1/2018,Lower Spine Surgery,10,1,0,0
+7/1/2017,Lower Spine Surgery,10,5,1,0
+6/1/2017,Lower Spine Surgery,10,2,0,0
+3/1/2018,Lower Spine Surgery,10,2,0,0
+5/1/2017,Lower Spine Surgery,10,1,1,0
+11/1/2017,Lower Spine Surgery,10,4,3,1
+10/1/2017,Lower Spine Surgery,10,1,1,0
+9/1/2017,Lower Spine Surgery,500,3,3,2
+4/1/2018,Lumbar Discectomy,260,2,0,0
+8/1/2017,Lumbar Discectomy,260,3,1,0
+12/1/2017,Lumbar Discectomy,260,3,1,1
+2/1/2018,Lumbar Discectomy,260,9,2,1
+1/1/2018,Lumbar Discectomy,320,4,3,1
+7/1/2017,Lumbar Discectomy,320,5,0,0
+6/1/2017,Lumbar Discectomy,210,1,0,0
+3/1/2018,Lumbar Discectomy,260,5,1,1
+5/1/2017,Lumbar Discectomy,260,2,1,0
+11/1/2017,Lumbar Discectomy,260,1,1,1
+9/1/2017,Lumbar Discectomy,500,2,2,1
+4/1/2018,Lumbar Puncture,8100,3,2,0
+8/1/2017,Lumbar Puncture,6600,6,1,0
+12/1/2017,Lumbar Puncture,8100,19,7,0
+2/1/2018,Lumbar Puncture,6600,14,5,0
+1/1/2018,Lumbar Puncture,6600,6,4,1
+7/1/2017,Lumbar Puncture,5400,7,1,0
+6/1/2017,Lumbar Puncture,6600,2,0,0
+3/1/2018,Lumbar Puncture,5400,8,3,0
+5/1/2017,Lumbar Puncture,6600,2,0,0
+11/1/2017,Lumbar Puncture,6600,5,3,1
+10/1/2017,Lumbar Puncture,6600,5,4,0
+9/1/2017,Lumbar Puncture,500,6,1,0
+4/1/2018,Lumpectomy,1600,5,3,2
+8/1/2017,Lumpectomy,1600,6,2,1
+1/1/2018,Lumpectomy,1300,9,0,0
+7/1/2017,Lumpectomy,1300,6,3,3
+6/1/2017,Lumpectomy,1600,8,5,4
+3/1/2018,Lumpectomy,1300,1,0,0
+5/1/2017,Lumpectomy,1600,2,1,1
+11/1/2017,Lumpectomy,1300,4,2,2
+10/1/2017,Lumpectomy,1600,6,5,5
+9/1/2017,Lumpectomy,,2,2,2
+4/1/2018,Lung Cancer Surgery,140,6,1,0
+8/1/2017,Lung Cancer Surgery,170,10,2,1
+12/1/2017,Lung Cancer Surgery,90,3,2,0
+2/1/2018,Lung Cancer Surgery,140,3,3,0
+1/1/2018,Lung Cancer Surgery,140,9,3,1
+7/1/2017,Lung Cancer Surgery,140,16,1,1
+6/1/2017,Lung Cancer Surgery,110,5,1,0
+3/1/2018,Lung Cancer Surgery,110,8,5,2
+5/1/2017,Lung Cancer Surgery,110,4,2,1
+11/1/2017,Lung Cancer Surgery,110,7,2,0
+10/1/2017,Lung Cancer Surgery,110,2,1,0
+9/1/2017,Lung Cancer Surgery,140,5,1,0
+8/1/2017,Lung Cancer Treatment,2900,6,2,0
+7/1/2017,Lung Cancer Treatment,2900,4,3,0
+6/1/2017,Lung Cancer Treatment,2900,3,1,0
+5/1/2017,Lung Cancer Treatment,3600,3,0,0
+11/1/2017,Lung Cancer Treatment,,1,1,1
+4/1/2018,Lung Surgery,480,1,0,0
+8/1/2017,Lung Surgery,480,1,1,1
+2/1/2018,Lung Surgery,480,1,0,0
+1/1/2018,Lung Surgery,480,3,1,1
+7/1/2017,Lung Surgery,480,1,1,0
+6/1/2017,Lung Surgery,390,1,0,0
+3/1/2018,Lung Surgery,480,1,1,0
+10/1/2017,Lung Surgery,,2,1,1
+4/1/2018,Lung Transplant,1600,21,9,0
+8/1/2017,Lung Transplant,1900,37,10,0
+12/1/2017,Lung Transplant,1900,21,15,0
+2/1/2018,Lung Transplant,1600,38,14,0
+1/1/2018,Lung Transplant,1300,29,13,0
+7/1/2017,Lung Transplant,1300,26,5,0
+6/1/2017,Lung Transplant,1900,6,2,0
+3/1/2018,Lung Transplant,1300,45,17,0
+5/1/2017,Lung Transplant,1600,4,0,0
+11/1/2017,Lung Transplant,1600,42,17,0
+10/1/2017,Lung Transplant,1900,19,10,0
+9/1/2017,Lung Transplant,500,21,9,0
+4/1/2018,Macular Hole Treatment,70,3,1,0
+12/1/2017,Macular Hole Treatment,70,2,1,0
+2/1/2018,Macular Hole Treatment,70,5,2,0
+1/1/2018,Macular Hole Treatment,70,2,0,0
+7/1/2017,Macular Hole Treatment,90,2,0,0
+6/1/2017,Macular Hole Treatment,90,2,0,0
+3/1/2018,Macular Hole Treatment,50,7,2,0
+5/1/2017,Macular Hole Treatment,50,1,0,0
+9/1/2017,Macular Hole Treatment,500,2,1,0
+4/1/2018,Magnetic Resonance Imaging,1300,1,0,0
+8/1/2017,Magnetic Resonance Imaging,1600,14,2,0
+12/1/2017,Magnetic Resonance Imaging,1900,26,17,0
+2/1/2018,Magnetic Resonance Imaging,1600,2,1,0
+1/1/2018,Magnetic Resonance Imaging,1300,19,10,0
+7/1/2017,Magnetic Resonance Imaging,1600,5,0,0
+6/1/2017,Magnetic Resonance Imaging,1600,3,1,0
+3/1/2018,Magnetic Resonance Imaging,1600,5,0,0
+5/1/2017,Magnetic Resonance Imaging,1600,2,1,0
+11/1/2017,Magnetic Resonance Imaging,1300,28,18,2
+10/1/2017,Magnetic Resonance Imaging,1300,10,7,0
+9/1/2017,Magnetic Resonance Imaging,1300,8,3,0
+8/1/2017,Male Infertility Treatment,1300,2,0,0
+1/1/2018,Male Infertility Treatment,1300,1,1,0
+3/1/2018,Male Infertility Treatment,1300,1,0,0
+11/1/2017,Male Infertility Treatment,1000,1,0,0
+9/1/2017,Male Infertility Treatment,500,4,1,0
+4/1/2018,Mammography,500,24,9,0
+8/1/2017,Mammography,500,31,7,0
+12/1/2017,Mammography,500,10,7,0
+2/1/2018,Mammography,500,17,9,0
+1/1/2018,Mammography,500,22,12,0
+7/1/2017,Mammography,500,8,2,0
+6/1/2017,Mammography,500,2,0,0
+3/1/2018,Mammography,500,30,12,0
+5/1/2017,Mammography,500,3,2,0
+11/1/2017,Mammography,500,9,8,0
+10/1/2017,Mammography,500,16,9,0
+9/1/2017,Mammography,500,13,4,0
+4/1/2018,Mediastinoscopy,320,1,0,0
+1/1/2018,Mediastinoscopy,480,1,0,0
+7/1/2017,Mediastinoscopy,590,1,0,0
+6/1/2017,Mediastinoscopy,500,1,0,0
+4/1/2018,Medical Management,1000,703,480,428
+8/1/2017,Medical Management,1000,4,3,3
+12/1/2017,Medical Management,1300,317,268,207
+2/1/2018,Medical Management,1000,434,358,266
+1/1/2018,Medical Management,1000,486,388,279
+7/1/2017,Medical Management,880,9,8,8
+6/1/2017,Medical Management,1300,6,6,6
+3/1/2018,Medical Management,880,589,475,386
+5/1/2017,Medical Management,880,3,3,3
+11/1/2017,Medical Management,880,77,59,54
+10/1/2017,Medical Management,880,11,11,11
+9/1/2017,Medical Management,,16,10,10
+4/1/2018,Microdiscectomy,1600,3,0,0
+8/1/2017,Microdiscectomy,1600,10,0,0
+12/1/2017,Microdiscectomy,1300,5,2,0
+2/1/2018,Microdiscectomy,1300,1,1,0
+1/1/2018,Microdiscectomy,1600,2,1,0
+7/1/2017,Microdiscectomy,1300,9,1,1
+3/1/2018,Microdiscectomy,1600,7,2,0
+5/1/2017,Microdiscectomy,1600,1,0,0
+11/1/2017,Microdiscectomy,1300,6,4,1
+10/1/2017,Microdiscectomy,1300,3,0,0
+9/1/2017,Microdiscectomy,,3,3,1
+4/1/2018,Microlaryngeal Surgery,210,2,1,0
+8/1/2017,Microlaryngeal Surgery,390,1,0,0
+12/1/2017,Microlaryngeal Surgery,390,2,2,0
+2/1/2018,Microlaryngeal Surgery,170,1,1,0
+7/1/2017,Microlaryngeal Surgery,260,1,0,0
+10/1/2017,Microlaryngeal Surgery,500,1,1,0
+4/1/2018,Microscopic Voice Surgery,,9,4,0
+8/1/2017,Microscopic Voice Surgery,,2,0,0
+12/1/2017,Microscopic Voice Surgery,,1,0,0
+7/1/2017,Microscopic Voice Surgery,,2,1,0
+6/1/2017,Microscopic Voice Surgery,,2,0,0
+5/1/2017,Microscopic Voice Surgery,,2,1,0
+11/1/2017,Microscopic Voice Surgery,,1,1,0
+10/1/2017,Microscopic Voice Surgery,,2,0,0
+9/1/2017,Microscopic Voice Surgery,,1,0,0
+4/1/2018,Mitral Valve Surgery,500,1,0,0
+4/1/2018,Mitral Valve Surgery,90,8,4,3
+8/1/2017,Mitral Valve Surgery,70,10,5,3
+12/1/2017,Mitral Valve Surgery,110,6,3,2
+2/1/2018,Mitral Valve Surgery,70,4,1,1
+1/1/2018,Mitral Valve Surgery,110,6,3,2
+7/1/2017,Mitral Valve Surgery,110,6,2,1
+6/1/2017,Mitral Valve Surgery,110,3,0,0
+3/1/2018,Mitral Valve Surgery,90,20,12,7
+5/1/2017,Mitral Valve Surgery,110,7,3,2
+11/1/2017,Mitral Valve Surgery,70,10,7,3
+10/1/2017,Mitral Valve Surgery,90,2,2,0
+9/1/2017,Mitral Valve Surgery,,32,1,0
+4/1/2018,Mitral Valvuloplasty,90,5,2,2
+8/1/2017,Mitral Valvuloplasty,70,2,2,2
+12/1/2017,Mitral Valvuloplasty,70,2,1,1
+2/1/2018,Mitral Valvuloplasty,70,5,3,1
+3/1/2018,Mitral Valvuloplasty,500,2,2,2
+4/1/2018,Mohs Surgery,1300,1,0,0
+8/1/2017,Mohs Surgery,1300,1,0,0
+2/1/2018,Mohs Surgery,1300,2,0,0
+1/1/2018,Mohs Surgery,1000,3,1,0
+7/1/2017,Mohs Surgery,1300,2,0,0
+6/1/2017,Mohs Surgery,1300,2,1,0
+5/1/2017,Mohs Surgery,1300,2,0,0
+11/1/2017,Mohs Surgery,1300,1,1,0
+9/1/2017,Mohs Surgery,,2,0,0
+4/1/2018,Myomectomy,4400,3,1,1
+8/1/2017,Myomectomy,5400,3,1,0
+12/1/2017,Myomectomy,4400,4,3,1
+2/1/2018,Myomectomy,4400,1,1,0
+1/1/2018,Myomectomy,4400,4,3,1
+7/1/2017,Myomectomy,4400,2,0,0
+6/1/2017,Myomectomy,4400,1,1,1
+5/1/2017,Myomectomy,4400,1,0,0
+11/1/2017,Myomectomy,4400,3,3,1
+10/1/2017,Myomectomy,4400,2,1,0
+9/1/2017,Myomectomy,500,1,1,1
+4/1/2018,Myringoplasty,1600,1,0,0
+8/1/2017,Myringoplasty,1600,3,1,0
+1/1/2018,Myringoplasty,1300,2,0,0
+6/1/2017,Myringoplasty,1300,1,0,0
+5/1/2017,Myringoplasty,1300,3,1,0
+10/1/2017,Myringoplasty,1600,1,1,0
+9/1/2017,Myringoplasty,,1,1,1
+4/1/2018,Nasal Polypectomy,110,1,1,0
+8/1/2017,Nasal Polypectomy,90,1,0,0
+12/1/2017,Nasal Polypectomy,90,1,0,0
+1/1/2018,Nasal Polypectomy,110,2,0,0
+7/1/2017,Nasal Polypectomy,90,4,1,0
+3/1/2018,Nasal Polypectomy,140,5,2,1
+5/1/2017,Nasal Polypectomy,110,1,0,0
+11/1/2017,Nasal Polypectomy,110,1,1,1
+9/1/2017,Nasal Polypectomy,500,3,2,1
+4/1/2018,Nasal Septum Surgery,50,7,6,2
+8/1/2017,Nasal Septum Surgery,90,6,3,0
+12/1/2017,Nasal Septum Surgery,50,1,0,0
+1/1/2018,Nasal Septum Surgery,70,4,2,1
+7/1/2017,Nasal Septum Surgery,70,14,5,1
+6/1/2017,Nasal Septum Surgery,110,3,0,0
+3/1/2018,Nasal Septum Surgery,90,7,0,0
+11/1/2017,Nasal Septum Surgery,70,4,3,2
+10/1/2017,Nasal Septum Surgery,70,2,1,0
+9/1/2017,Nasal Septum Surgery,,1,0,0
+4/1/2018,Nephrectomy,500,7,3,1
+4/1/2018,Nephrectomy,2900,2,1,0
+8/1/2017,Nephrectomy,2900,3,2,1
+12/1/2017,Nephrectomy,2900,4,1,1
+2/1/2018,Nephrectomy,2400,2,2,2
+1/1/2018,Nephrectomy,2400,2,1,1
+7/1/2017,Nephrectomy,2400,6,3,1
+6/1/2017,Nephrectomy,2900,3,3,1
+3/1/2018,Nephrectomy,2400,3,1,1
+5/1/2017,Nephrectomy,2400,3,3,3
+11/1/2017,Nephrectomy,2400,7,3,2
+10/1/2017,Nephrectomy,2400,1,1,1
+9/1/2017,Nephrectomy,2900,2,1,0
+8/1/2017,Neurotomy,110,1,1,1
+12/1/2017,Neurotomy,90,2,2,2
+2/1/2018,Neurotomy,90,4,3,3
+1/1/2018,Neurotomy,90,1,1,1
+11/1/2017,Neurotomy,110,7,7,4
+8/1/2017,Nose Job,1600,1,0,0
+1/1/2018,Nose Job,1900,3,1,1
+7/1/2017,Nose Job,1600,1,1,1
+6/1/2017,Nose Job,1900,2,0,0
+3/1/2018,Nose Job,1600,2,2,0
+11/1/2017,Nose Job,1300,2,1,0
+9/1/2017,Nose Job,1300,1,1,0
+8/1/2017,Oophorectomy,3600,3,1,0
+2/1/2018,Oophorectomy,3600,2,2,1
+7/1/2017,Oophorectomy,3600,1,0,0
+8/1/2017,Open Cholecystectomy,390,1,0,0
+12/1/2017,Open Cholecystectomy,390,2,1,0
+7/1/2017,Open Cholecystectomy,390,1,0,0
+6/1/2017,Open Cholecystectomy,480,4,1,1
+3/1/2018,Open Cholecystectomy,320,3,1,0
+5/1/2017,Open Cholecystectomy,390,4,1,0
+10/1/2017,Open Cholecystectomy,390,1,0,0
+9/1/2017,Open Cholecystectomy,,5,2,1
+4/1/2018,Open Heart Surgery,500,1,1,0
+4/1/2018,Open Heart Surgery,12100,13,5,4
+8/1/2017,Open Heart Surgery,12100,12,6,3
+12/1/2017,Open Heart Surgery,12100,2,1,0
+2/1/2018,Open Heart Surgery,12100,7,5,3
+1/1/2018,Open Heart Surgery,12100,9,3,2
+7/1/2017,Open Heart Surgery,12100,57,7,1
+6/1/2017,Open Heart Surgery,9900,8,3,1
+3/1/2018,Open Heart Surgery,12100,11,3,2
+5/1/2017,Open Heart Surgery,12100,13,6,1
+11/1/2017,Open Heart Surgery,12100,2,2,1
+10/1/2017,Open Heart Surgery,12100,2,2,1
+9/1/2017,Open Heart Surgery,,6,2,2
+4/1/2018,Oral Cancer Treatment,500,1,1,1
+4/1/2018,Oral Cancer Treatment,1000,1,0,0
+8/1/2017,Oral Cancer Treatment,1300,5,3,3
+12/1/2017,Oral Cancer Treatment,1300,3,1,0
+2/1/2018,Oral Cancer Treatment,1000,4,3,2
+1/1/2018,Oral Cancer Treatment,1000,1,1,0
+7/1/2017,Oral Cancer Treatment,880,5,4,2
+6/1/2017,Oral Cancer Treatment,1300,7,1,1
+3/1/2018,Oral Cancer Treatment,1300,1,1,1
+11/1/2017,Oral Cancer Treatment,1000,6,3,2
+10/1/2017,Oral Cancer Treatment,1300,6,5,4
+9/1/2017,Oral Cancer Treatment,1000,3,3,3
+7/1/2017,Ossiculoplasty,480,1,0,0
+3/1/2018,Ossiculoplasty,500,1,1,0
+4/1/2018,Otoplasty,590,2,1,0
+8/1/2017,Otoplasty,480,1,1,0
+2/1/2018,Otoplasty,390,3,1,0
+1/1/2018,Otoplasty,590,1,0,0
+7/1/2017,Otoplasty,480,2,2,0
+3/1/2018,Otoplasty,590,8,2,0
+5/1/2017,Otoplasty,480,2,1,0
+11/1/2017,Otoplasty,590,5,2,0
+9/1/2017,Otoplasty,,3,3,0
+4/1/2018,Ovarian Cancer Surgery,500,1,0,0
+4/1/2018,Ovarian Cancer Surgery,70,1,1,1
+8/1/2017,Ovarian Cancer Surgery,90,8,4,2
+12/1/2017,Ovarian Cancer Surgery,90,2,0,0
+1/1/2018,Ovarian Cancer Surgery,110,3,2,1
+7/1/2017,Ovarian Cancer Surgery,90,14,0,0
+6/1/2017,Ovarian Cancer Surgery,90,8,2,2
+3/1/2018,Ovarian Cancer Surgery,110,5,2,0
+5/1/2017,Ovarian Cancer Surgery,70,3,0,0
+11/1/2017,Ovarian Cancer Surgery,90,2,1,1
+10/1/2017,Ovarian Cancer Surgery,90,1,1,1
+9/1/2017,Ovarian Cancer Surgery,70,9,2,2
+8/1/2017,Ovarian Cancer Treatment,880,1,0,0
+7/1/2017,Ovarian Cancer Treatment,880,4,0,0
+6/1/2017,Ovarian Cancer Treatment,880,4,2,0
+5/1/2017,Ovarian Cancer Treatment,880,1,0,0
+11/1/2017,Ovarian Cancer Treatment,880,1,1,1
+9/1/2017,Ovarian Cancer Treatment,500,1,1,1
+4/1/2018,Ovarian Cyst Removal,480,63,15,3
+8/1/2017,Ovarian Cyst Removal,390,28,10,3
+12/1/2017,Ovarian Cyst Removal,390,43,28,5
+2/1/2018,Ovarian Cyst Removal,390,39,17,3
+1/1/2018,Ovarian Cyst Removal,480,23,11,0
+7/1/2017,Ovarian Cyst Removal,480,32,5,3
+6/1/2017,Ovarian Cyst Removal,390,23,6,2
+3/1/2018,Ovarian Cyst Removal,480,55,25,4
+5/1/2017,Ovarian Cyst Removal,390,14,4,1
+11/1/2017,Ovarian Cyst Removal,480,41,18,3
+10/1/2017,Ovarian Cyst Removal,390,31,15,3
+9/1/2017,Ovarian Cyst Removal,500,15,5,2
+4/1/2018,Ovary Removal Surgery,90,12,4,2
+8/1/2017,Ovary Removal Surgery,170,4,1,1
+12/1/2017,Ovary Removal Surgery,260,3,3,0
+2/1/2018,Ovary Removal Surgery,170,2,0,0
+1/1/2018,Ovary Removal Surgery,110,3,2,0
+7/1/2017,Ovary Removal Surgery,140,4,0,0
+6/1/2017,Ovary Removal Surgery,170,6,4,0
+3/1/2018,Ovary Removal Surgery,110,7,1,0
+11/1/2017,Ovary Removal Surgery,170,6,2,1
+10/1/2017,Ovary Removal Surgery,140,3,2,1
+9/1/2017,Ovary Removal Surgery,,5,3,1
+4/1/2018,Pacemaker Surgery,500,9,4,1
+4/1/2018,Pacemaker Surgery,720,146,71,14
+8/1/2017,Pacemaker Surgery,480,94,22,3
+12/1/2017,Pacemaker Surgery,480,97,55,5
+2/1/2018,Pacemaker Surgery,480,108,57,8
+1/1/2018,Pacemaker Surgery,480,100,56,5
+7/1/2017,Pacemaker Surgery,390,109,20,5
+6/1/2017,Pacemaker Surgery,390,85,20,5
+3/1/2018,Pacemaker Surgery,320,155,76,15
+5/1/2017,Pacemaker Surgery,390,58,14,5
+11/1/2017,Pacemaker Surgery,390,65,49,7
+10/1/2017,Pacemaker Surgery,590,58,26,7
+9/1/2017,Pacemaker Surgery,500,66,33,10
+4/1/2018,Paediatric Cardiac Surgery,40,11,3,1
+8/1/2017,Paediatric Cardiac Surgery,70,8,3,0
+12/1/2017,Paediatric Cardiac Surgery,90,6,3,2
+2/1/2018,Paediatric Cardiac Surgery,70,5,3,3
+1/1/2018,Paediatric Cardiac Surgery,40,9,4,3
+7/1/2017,Paediatric Cardiac Surgery,50,5,2,2
+6/1/2017,Paediatric Cardiac Surgery,90,4,4,4
+3/1/2018,Paediatric Cardiac Surgery,40,15,7,5
+5/1/2017,Paediatric Cardiac Surgery,70,5,1,1
+11/1/2017,Paediatric Cardiac Surgery,40,7,4,3
+10/1/2017,Paediatric Cardiac Surgery,70,13,9,8
+9/1/2017,Paediatric Cardiac Surgery,500,6,5,3
+4/1/2018,Pancreatectomy,590,2,2,2
+8/1/2017,Pancreatectomy,480,7,2,2
+12/1/2017,Pancreatectomy,480,5,2,1
+2/1/2018,Pancreatectomy,390,1,1,1
+1/1/2018,Pancreatectomy,480,4,3,2
+7/1/2017,Pancreatectomy,480,9,3,3
+6/1/2017,Pancreatectomy,480,4,3,2
+3/1/2018,Pancreatectomy,390,3,1,1
+5/1/2017,Pancreatectomy,480,3,2,2
+11/1/2017,Pancreatectomy,390,13,8,2
+10/1/2017,Pancreatectomy,480,5,4,0
+9/1/2017,Pancreatectomy,590,9,7,5
+8/1/2017,Partial Hip Replacement,70,1,0,0
+6/1/2017,Partial Hip Replacement,,1,0,0
+4/1/2018,Percutaneous Coronary Intervention,500,1,0,0
+4/1/2018,Percutaneous Coronary Intervention,1600,1,1,0
+6/1/2017,Percutaneous Coronary Intervention,1300,1,0,0
+3/1/2018,Percutaneous Coronary Intervention,1600,2,1,0
+5/1/2017,Percutaneous Coronary Intervention,1000,2,0,0
+11/1/2017,Percutaneous Coronary Intervention,1000,1,0,0
+9/1/2017,Percutaneous Coronary Intervention,,1,0,0
+4/1/2018,Percutaneous Nephrolithotomy,500,1,0,0
+4/1/2018,Percutaneous Nephrolithotomy,590,10,4,0
+8/1/2017,Percutaneous Nephrolithotomy,590,10,3,0
+12/1/2017,Percutaneous Nephrolithotomy,480,14,8,0
+2/1/2018,Percutaneous Nephrolithotomy,590,10,4,1
+1/1/2018,Percutaneous Nephrolithotomy,590,12,6,1
+7/1/2017,Percutaneous Nephrolithotomy,590,6,2,0
+6/1/2017,Percutaneous Nephrolithotomy,480,5,1,0
+3/1/2018,Percutaneous Nephrolithotomy,480,12,3,0
+5/1/2017,Percutaneous Nephrolithotomy,480,10,2,0
+11/1/2017,Percutaneous Nephrolithotomy,480,4,4,1
+10/1/2017,Percutaneous Nephrolithotomy,480,9,6,0
+9/1/2017,Percutaneous Nephrolithotomy,,11,5,0
+4/1/2018,Peripheral Angiography,500,1,0,0
+4/1/2018,Peripheral Angiography,500,34,14,2
+8/1/2017,Peripheral Angiography,500,23,6,1
+12/1/2017,Peripheral Angiography,500,15,6,0
+2/1/2018,Peripheral Angiography,500,30,13,3
+1/1/2018,Peripheral Angiography,500,27,12,2
+7/1/2017,Peripheral Angiography,500,24,5,0
+6/1/2017,Peripheral Angiography,500,11,2,1
+3/1/2018,Peripheral Angiography,500,33,17,2
+5/1/2017,Peripheral Angiography,500,4,0,0
+11/1/2017,Peripheral Angiography,500,5,3,0
+10/1/2017,Peripheral Angiography,500,8,3,0
+9/1/2017,Peripheral Angiography,500,16,4,0
+4/1/2018,Peripheral Angioplasty,110,7,5,2
+8/1/2017,Peripheral Angioplasty,170,6,1,0
+12/1/2017,Peripheral Angioplasty,170,11,7,4
+2/1/2018,Peripheral Angioplasty,170,10,4,2
+1/1/2018,Peripheral Angioplasty,170,2,2,0
+7/1/2017,Peripheral Angioplasty,140,9,3,3
+6/1/2017,Peripheral Angioplasty,170,6,1,0
+3/1/2018,Peripheral Angioplasty,170,14,6,0
+5/1/2017,Peripheral Angioplasty,170,9,2,2
+11/1/2017,Peripheral Angioplasty,210,9,3,1
+10/1/2017,Peripheral Angioplasty,140,6,3,0
+9/1/2017,Peripheral Angioplasty,,10,6,2
+4/1/2018,PET Scan,500,1,0,0
+4/1/2018,PET Scan,14800,33,11,0
+8/1/2017,PET Scan,18100,21,8,3
+12/1/2017,PET Scan,18100,15,10,0
+2/1/2018,PET Scan,14800,15,4,1
+1/1/2018,PET Scan,14800,15,8,1
+7/1/2017,PET Scan,14800,6,1,0
+6/1/2017,PET Scan,18100,1,0,0
+3/1/2018,PET Scan,12100,32,13,1
+5/1/2017,PET Scan,14800,4,2,1
+11/1/2017,PET Scan,14800,15,7,0
+10/1/2017,PET Scan,14800,19,11,1
+9/1/2017,PET Scan,500,11,6,0
+4/1/2018,PICC Line Insertion,480,9,2,0
+8/1/2017,PICC Line Insertion,590,3,0,0
+12/1/2017,PICC Line Insertion,590,5,2,0
+2/1/2018,PICC Line Insertion,590,1,1,0
+1/1/2018,PICC Line Insertion,320,1,1,0
+7/1/2017,PICC Line Insertion,320,2,0,0
+6/1/2017,PICC Line Insertion,590,4,2,0
+3/1/2018,PICC Line Insertion,480,4,1,0
+5/1/2017,PICC Line Insertion,480,4,1,0
+11/1/2017,PICC Line Insertion,480,2,1,0
+10/1/2017,PICC Line Insertion,480,1,1,0
+9/1/2017,PICC Line Insertion,,2,0,0
+4/1/2018,Piles Surgery,2900,11,4,1
+8/1/2017,Piles Surgery,2900,10,6,3
+12/1/2017,Piles Surgery,3600,21,10,4
+2/1/2018,Piles Surgery,2900,18,9,2
+1/1/2018,Piles Surgery,2900,13,10,5
+7/1/2017,Piles Surgery,2400,17,6,4
+6/1/2017,Piles Surgery,3600,12,3,2
+3/1/2018,Piles Surgery,2400,31,12,8
+5/1/2017,Piles Surgery,3600,13,6,4
+11/1/2017,Piles Surgery,2900,25,15,7
+10/1/2017,Piles Surgery,3600,13,7,3
+9/1/2017,Piles Surgery,500,10,8,1
+4/1/2018,Plastic Surgery,27100,11,2,2
+8/1/2017,Plastic Surgery,22200,7,2,1
+12/1/2017,Plastic Surgery,22200,12,5,0
+2/1/2018,Plastic Surgery,27100,7,2,2
+1/1/2018,Plastic Surgery,27100,6,3,0
+7/1/2017,Plastic Surgery,27100,6,1,0
+6/1/2017,Plastic Surgery,27100,5,4,4
+3/1/2018,Plastic Surgery,22200,18,9,5
+5/1/2017,Plastic Surgery,27100,7,2,2
+11/1/2017,Plastic Surgery,33100,21,11,4
+10/1/2017,Plastic Surgery,22200,9,4,0
+9/1/2017,Plastic Surgery,,11,5,0
+4/1/2018,Pneumonectomy,1300,1,1,0
+8/1/2017,Pneumonectomy,1300,1,0,0
+7/1/2017,Pneumonectomy,,1,0,0
+4/1/2018,Pregnancy - Normal Delivery,500,2,0,0
+4/1/2018,Pregnancy - Normal Delivery,500,53,22,6
+8/1/2017,Pregnancy - Normal Delivery,500,30,14,3
+12/1/2017,Pregnancy - Normal Delivery,500,41,21,8
+2/1/2018,Pregnancy - Normal Delivery,500,50,28,11
+1/1/2018,Pregnancy - Normal Delivery,500,48,25,11
+7/1/2017,Pregnancy - Normal Delivery,500,30,13,6
+6/1/2017,Pregnancy - Normal Delivery,500,11,8,4
+3/1/2018,Pregnancy - Normal Delivery,500,54,26,9
+5/1/2017,Pregnancy - Normal Delivery,500,10,2,0
+11/1/2017,Pregnancy - Normal Delivery,500,34,23,10
+10/1/2017,Pregnancy - Normal Delivery,500,25,16,3
+9/1/2017,Pregnancy - Normal Delivery,500,31,14,9
+8/1/2017,Pregnancy with PCOD,500,2,1,0
+1/1/2018,Pregnancy with PCOD,500,1,0,0
+7/1/2017,Pregnancy with PCOD,500,3,1,0
+6/1/2017,Pregnancy with PCOD,500,1,0,0
+3/1/2018,Pregnancy with PCOD,500,1,0,0
+5/1/2017,Pregnancy with PCOD,500,3,0,0
+9/1/2017,Pregnancy with PCOD,500,1,1,0
+4/1/2018,Prostate Cancer Surgery,170,7,5,1
+8/1/2017,Prostate Cancer Surgery,170,2,1,1
+12/1/2017,Prostate Cancer Surgery,170,1,0,0
+2/1/2018,Prostate Cancer Surgery,110,2,2,1
+1/1/2018,Prostate Cancer Surgery,140,2,2,0
+7/1/2017,Prostate Cancer Surgery,210,11,4,2
+6/1/2017,Prostate Cancer Surgery,110,2,0,0
+3/1/2018,Prostate Cancer Surgery,140,3,3,2
+5/1/2017,Prostate Cancer Surgery,170,1,0,0
+10/1/2017,Prostate Cancer Surgery,170,1,1,1
+9/1/2017,Prostate Cancer Surgery,500,1,0,0
+4/1/2018,Prostate Cancer Treatment,2400,2,0,0
+8/1/2017,Prostate Cancer Treatment,2900,5,2,0
+12/1/2017,Prostate Cancer Treatment,2900,1,1,0
+2/1/2018,Prostate Cancer Treatment,1900,1,0,0
+7/1/2017,Prostate Cancer Treatment,1900,6,1,0
+6/1/2017,Prostate Cancer Treatment,1900,7,2,0
+5/1/2017,Prostate Cancer Treatment,2400,2,0,0
+11/1/2017,Prostate Cancer Treatment,2400,1,1,0
+9/1/2017,Prostate Cancer Treatment,500,4,1,0
+4/1/2018,Prostate Resection Surgery,10,7,3,2
+8/1/2017,Prostate Resection Surgery,10,2,2,1
+12/1/2017,Prostate Resection Surgery,10,8,5,2
+2/1/2018,Prostate Resection Surgery,10,10,4,2
+1/1/2018,Prostate Resection Surgery,10,4,1,1
+7/1/2017,Prostate Resection Surgery,0,5,3,1
+6/1/2017,Prostate Resection Surgery,0,3,1,0
+3/1/2018,Prostate Resection Surgery,0,5,0,0
+5/1/2017,Prostate Resection Surgery,10,2,1,1
+11/1/2017,Prostate Resection Surgery,10,3,2,1
+10/1/2017,Prostate Resection Surgery,10,1,1,1
+9/1/2017,Prostate Resection Surgery,500,3,2,2
+4/1/2018,Pulmonary Function Test,6600,12,7,0
+8/1/2017,Pulmonary Function Test,8100,47,6,0
+12/1/2017,Pulmonary Function Test,6600,4,3,0
+2/1/2018,Pulmonary Function Test,6600,7,4,0
+1/1/2018,Pulmonary Function Test,5400,9,6,1
+7/1/2017,Pulmonary Function Test,5400,20,6,2
+6/1/2017,Pulmonary Function Test,6600,4,0,0
+3/1/2018,Pulmonary Function Test,5400,13,5,0
+5/1/2017,Pulmonary Function Test,6600,1,0,0
+11/1/2017,Pulmonary Function Test,6600,8,5,0
+10/1/2017,Pulmonary Function Test,6600,13,8,0
+9/1/2017,Pulmonary Function Test,,26,11,0
+4/1/2018,Radiation Therapy,500,6,2,2
+4/1/2018,Radiation Therapy,6600,581,225,0
+8/1/2017,Radiation Therapy,8100,364,298,30
+12/1/2017,Radiation Therapy,8100,241,154,1
+2/1/2018,Radiation Therapy,6600,570,440,0
+1/1/2018,Radiation Therapy,6600,418,299,2
+7/1/2017,Radiation Therapy,6600,599,541,50
+6/1/2017,Radiation Therapy,8100,248,207,34
+3/1/2018,Radiation Therapy,5400,378,250,3
+5/1/2017,Radiation Therapy,6600,20,7,1
+11/1/2017,Radiation Therapy,6600,281,260,5
+10/1/2017,Radiation Therapy,6600,468,403,0
+9/1/2017,Radiation Therapy,500,263,210,2
+4/1/2018,Radical Cystectomy,480,2,1,0
+8/1/2017,Radical Cystectomy,390,10,8,0
+3/1/2018,Radical Cystectomy,390,1,1,1
+10/1/2017,Radical Cystectomy,500,1,1,0
+4/1/2018,Radical Prostatectomy,720,4,3,1
+8/1/2017,Radical Prostatectomy,720,1,1,0
+12/1/2017,Radical Prostatectomy,720,4,3,1
+7/1/2017,Radical Prostatectomy,880,3,0,0
+6/1/2017,Radical Prostatectomy,720,2,0,0
+5/1/2017,Radical Prostatectomy,500,1,0,0
+4/1/2018,Renal Angioplasty,90,8,6,2
+12/1/2017,Renal Angioplasty,90,1,0,0
+1/1/2018,Renal Angioplasty,70,7,4,0
+7/1/2017,Renal Angioplasty,70,1,0,0
+6/1/2017,Renal Angioplasty,90,1,0,0
+3/1/2018,Renal Angioplasty,90,4,4,2
+11/1/2017,Renal Angioplasty,90,8,4,0
+10/1/2017,Renal Angioplasty,70,1,0,0
+9/1/2017,Renal Angioplasty,500,5,3,0
+4/1/2018,Renal Transplant,1300,6,3,0
+8/1/2017,Renal Transplant,1600,3,1,1
+12/1/2017,Renal Transplant,1600,4,4,2
+2/1/2018,Renal Transplant,1600,3,1,0
+1/1/2018,Renal Transplant,1300,8,4,1
+6/1/2017,Renal Transplant,1600,6,2,0
+3/1/2018,Renal Transplant,1300,5,4,0
+5/1/2017,Renal Transplant,1300,4,3,0
+11/1/2017,Renal Transplant,1000,7,3,0
+10/1/2017,Renal Transplant,1300,3,3,1
+9/1/2017,Renal Transplant,1300,2,1,0
+7/1/2017,Revascularization,1300,1,1,0
+6/1/2017,Revascularization,,1,0,0
+4/1/2018,Rhinoplasty,6600,6,3,0
+8/1/2017,Rhinoplasty,8100,3,0,0
+12/1/2017,Rhinoplasty,8100,4,2,0
+2/1/2018,Rhinoplasty,8100,7,2,0
+1/1/2018,Rhinoplasty,6600,5,1,0
+7/1/2017,Rhinoplasty,6600,4,0,0
+6/1/2017,Rhinoplasty,8100,3,2,0
+3/1/2018,Rhinoplasty,6600,6,3,0
+5/1/2017,Rhinoplasty,8100,5,3,2
+11/1/2017,Rhinoplasty,135000,3,2,0
+10/1/2017,Rhinoplasty,6600,2,0,0
+9/1/2017,Rhinoplasty,500,3,2,0
+4/1/2018,Robotic Surgery,4400,14,8,1
+8/1/2017,Robotic Surgery,3600,2,1,0
+12/1/2017,Robotic Surgery,5400,5,4,1
+2/1/2018,Robotic Surgery,3600,2,1,0
+7/1/2017,Robotic Surgery,4400,1,0,0
+3/1/2018,Robotic Surgery,2900,5,3,0
+5/1/2017,Robotic Surgery,3600,3,1,0
+10/1/2017,Robotic Surgery,500,1,1,0
+4/1/2018,Root Canal Treatment,9900,2,0,0
+8/1/2017,Root Canal Treatment,14800,8,2,0
+12/1/2017,Root Canal Treatment,22200,9,3,0
+2/1/2018,Root Canal Treatment,12100,4,2,0
+1/1/2018,Root Canal Treatment,9900,12,6,0
+7/1/2017,Root Canal Treatment,9900,11,0,0
+6/1/2017,Root Canal Treatment,22200,3,0,0
+3/1/2018,Root Canal Treatment,8100,11,3,0
+5/1/2017,Root Canal Treatment,14800,1,1,0
+11/1/2017,Root Canal Treatment,9900,10,1,0
+10/1/2017,Root Canal Treatment,9900,7,3,0
+9/1/2017,Root Canal Treatment,500,6,4,0
+4/1/2018,Septoplasty,4400,13,7,1
+8/1/2017,Septoplasty,5400,11,4,1
+12/1/2017,Septoplasty,5400,7,5,1
+2/1/2018,Septoplasty,5400,6,3,0
+1/1/2018,Septoplasty,4400,4,1,0
+7/1/2017,Septoplasty,4400,6,1,0
+6/1/2017,Septoplasty,5400,1,1,0
+3/1/2018,Septoplasty,4400,16,7,1
+5/1/2017,Septoplasty,4400,4,1,0
+11/1/2017,Septoplasty,4400,8,5,0
+10/1/2017,Septoplasty,4400,10,6,1
+9/1/2017,Septoplasty,500,9,5,0
+4/1/2018,Shoulder Arthroscopy,720,15,5,1
+8/1/2017,Shoulder Arthroscopy,590,3,2,1
+12/1/2017,Shoulder Arthroscopy,720,7,6,2
+2/1/2018,Shoulder Arthroscopy,590,4,1,1
+1/1/2018,Shoulder Arthroscopy,720,3,1,0
+7/1/2017,Shoulder Arthroscopy,720,4,0,0
+6/1/2017,Shoulder Arthroscopy,590,3,2,0
+3/1/2018,Shoulder Arthroscopy,720,12,4,1
+5/1/2017,Shoulder Arthroscopy,590,3,1,0
+11/1/2017,Shoulder Arthroscopy,590,10,3,2
+10/1/2017,Shoulder Arthroscopy,590,4,2,0
+9/1/2017,Shoulder Arthroscopy,500,1,1,1
+4/1/2018,Sigmoidoscopy,4400,4,1,0
+8/1/2017,Sigmoidoscopy,5400,2,0,0
+12/1/2017,Sigmoidoscopy,5400,1,1,0
+1/1/2018,Sigmoidoscopy,4400,1,0,0
+7/1/2017,Sigmoidoscopy,5400,3,0,0
+3/1/2018,Sigmoidoscopy,3600,2,1,0
+5/1/2017,Sigmoidoscopy,4400,1,0,0
+11/1/2017,Sigmoidoscopy,4400,2,0,0
+10/1/2017,Sigmoidoscopy,4400,2,1,0
+9/1/2017,Sigmoidoscopy,,1,1,0
+4/1/2018,Sinus Surgery,1000,10,6,0
+8/1/2017,Sinus Surgery,1300,18,11,6
+12/1/2017,Sinus Surgery,1000,8,3,0
+2/1/2018,Sinus Surgery,1000,17,9,3
+1/1/2018,Sinus Surgery,880,13,3,1
+7/1/2017,Sinus Surgery,880,10,4,3
+6/1/2017,Sinus Surgery,1000,3,0,0
+3/1/2018,Sinus Surgery,880,19,10,2
+5/1/2017,Sinus Surgery,1000,2,0,0
+11/1/2017,Sinus Surgery,1000,11,5,1
+10/1/2017,Sinus Surgery,880,2,2,2
+9/1/2017,Sinus Surgery,500,1,0,0
+4/1/2018,Skin Cancer Surgery,30,3,1,0
+8/1/2017,Skin Cancer Surgery,20,10,1,0
+12/1/2017,Skin Cancer Surgery,10,3,2,0
+2/1/2018,Skin Cancer Surgery,20,2,1,1
+1/1/2018,Skin Cancer Surgery,20,2,1,0
+7/1/2017,Skin Cancer Surgery,20,7,0,0
+6/1/2017,Skin Cancer Surgery,10,5,0,0
+3/1/2018,Skin Cancer Surgery,30,5,0,0
+5/1/2017,Skin Cancer Surgery,20,8,1,0
+11/1/2017,Skin Cancer Surgery,20,1,0,0
+10/1/2017,Skin Cancer Surgery,40,2,2,1
+9/1/2017,Skin Cancer Surgery,500,2,1,1
+4/1/2018,Skull Base Surgery,110,2,0,0
+8/1/2017,Skull Base Surgery,170,5,1,0
+12/1/2017,Skull Base Surgery,170,3,2,0
+2/1/2018,Skull Base Surgery,140,1,0,0
+1/1/2018,Skull Base Surgery,140,3,0,0
+6/1/2017,Skull Base Surgery,140,4,0,0
+3/1/2018,Skull Base Surgery,140,1,0,0
+5/1/2017,Skull Base Surgery,140,6,1,0
+11/1/2017,Skull Base Surgery,110,1,0,0
+10/1/2017,Skull Base Surgery,140,2,1,0
+9/1/2017,Skull Base Surgery,500,1,1,0
+4/1/2018,Sleep Study,1600,4,2,2
+8/1/2017,Sleep Study,1600,17,1,0
+12/1/2017,Sleep Study,1600,5,5,0
+1/1/2018,Sleep Study,1600,6,4,2
+7/1/2017,Sleep Study,1600,36,8,0
+6/1/2017,Sleep Study,1900,8,1,0
+3/1/2018,Sleep Study,1300,4,2,0
+5/1/2017,Sleep Study,1300,2,0,0
+11/1/2017,Sleep Study,1300,3,1,0
+10/1/2017,Sleep Study,1300,1,1,0
+9/1/2017,Sleep Study,500,3,2,0
+4/1/2018,Spinal Decompression,480,1,0,0
+8/1/2017,Spinal Decompression,390,3,3,2
+12/1/2017,Spinal Decompression,390,2,1,0
+2/1/2018,Spinal Decompression,320,1,1,1
+7/1/2017,Spinal Decompression,320,4,1,0
+6/1/2017,Spinal Decompression,390,4,2,1
+3/1/2018,Spinal Decompression,390,4,3,1
+11/1/2017,Spinal Decompression,500,3,2,1
+4/1/2018,Spinal Fusion,720,1,0,0
+8/1/2017,Spinal Fusion,720,1,0,0
+2/1/2018,Spinal Fusion,720,1,1,0
+7/1/2017,Spinal Fusion,720,2,1,0
+6/1/2017,Spinal Fusion,880,1,0,0
+9/1/2017,Spinal Fusion,500,2,1,1
+4/1/2018,Spinal Tap,880,2,0,0
+8/1/2017,Spinal Tap,880,2,0,0
+12/1/2017,Spinal Tap,880,1,0,0
+1/1/2018,Spinal Tap,880,1,1,0
+3/1/2018,Spinal Tap,880,3,0,0
+5/1/2017,Spinal Tap,500,1,1,0
+4/1/2018,Spine Surgery,2900,30,12,7
+8/1/2017,Spine Surgery,2900,16,11,5
+12/1/2017,Spine Surgery,2900,19,10,5
+2/1/2018,Spine Surgery,2900,14,9,8
+1/1/2018,Spine Surgery,2900,15,8,4
+7/1/2017,Spine Surgery,2900,20,9,5
+6/1/2017,Spine Surgery,2900,9,6,5
+3/1/2018,Spine Surgery,2900,36,13,9
+5/1/2017,Spine Surgery,2900,8,1,0
+11/1/2017,Spine Surgery,2900,15,9,8
+10/1/2017,Spine Surgery,2900,8,4,3
+9/1/2017,Spine Surgery,,7,3,1
+4/1/2018,Splenectomy,2400,7,3,0
+8/1/2017,Splenectomy,2400,9,2,0
+2/1/2018,Splenectomy,1900,3,1,0
+1/1/2018,Splenectomy,1900,1,1,0
+7/1/2017,Splenectomy,1900,2,1,0
+6/1/2017,Splenectomy,1900,2,1,0
+3/1/2018,Splenectomy,1900,2,2,0
+5/1/2017,Splenectomy,1900,1,0,0
+10/1/2017,Splenectomy,1900,2,0,0
+9/1/2017,Splenectomy,500,2,2,1
+4/1/2018,Spondylodesis,20,3,2,0
+12/1/2017,Spondylodesis,20,1,1,0
+2/1/2018,Spondylodesis,20,4,2,0
+1/1/2018,Spondylodesis,20,1,1,0
+3/1/2018,Spondylodesis,20,1,0,0
+5/1/2017,Spondylodesis,20,5,1,0
+11/1/2017,Spondylodesis,20,4,0,0
+10/1/2017,Spondylodesis,20,1,1,0
+9/1/2017,Spondylodesis,500,3,0,0
+4/1/2018,Squint Surgery,720,10,3,1
+8/1/2017,Squint Surgery,720,9,2,0
+12/1/2017,Squint Surgery,880,9,5,0
+2/1/2018,Squint Surgery,880,7,2,0
+1/1/2018,Squint Surgery,720,11,5,0
+7/1/2017,Squint Surgery,1000,8,2,0
+6/1/2017,Squint Surgery,720,2,0,0
+3/1/2018,Squint Surgery,720,5,0,0
+11/1/2017,Squint Surgery,590,8,3,0
+9/1/2017,Squint Surgery,500,10,1,0
+4/1/2018,Stem Cell Transplantation,500,1,0,0
+1/1/2018,Stem Cell Transplantation,500,1,0,0
+7/1/2017,Stem Cell Transplantation,500,2,0,0
+6/1/2017,Stem Cell Transplantation,500,2,0,0
+5/1/2017,Stem Cell Transplantation,500,3,0,0
+11/1/2017,Stem Cell Transplantation,500,1,1,0
+10/1/2017,Stem Cell Transplantation,500,1,0,0
+9/1/2017,Stem Cell Transplantation,500,1,0,0
+4/1/2018,Strabismus Surgery,480,1,0,0
+8/1/2017,Strabismus Surgery,480,2,2,0
+12/1/2017,Strabismus Surgery,390,1,1,0
+1/1/2018,Strabismus Surgery,480,1,1,0
+6/1/2017,Strabismus Surgery,480,2,0,0
+5/1/2017,Strabismus Surgery,390,3,0,0
+9/1/2017,Strabismus Surgery,,1,0,0
+4/1/2018,Stress Echocardiography,500,11,3,0
+8/1/2017,Stress Echocardiography,500,4,1,0
+12/1/2017,Stress Echocardiography,500,5,4,0
+2/1/2018,Stress Echocardiography,500,8,3,0
+1/1/2018,Stress Echocardiography,500,3,2,0
+7/1/2017,Stress Echocardiography,500,6,0,0
+6/1/2017,Stress Echocardiography,500,1,0,0
+3/1/2018,Stress Echocardiography,500,5,4,0
+5/1/2017,Stress Echocardiography,500,3,0,0
+11/1/2017,Stress Echocardiography,500,2,0,0
+10/1/2017,Stress Echocardiography,500,3,2,0
+9/1/2017,Stress Echocardiography,500,4,2,0
+4/1/2018,Teeth Whitening,18100,4,1,0
+8/1/2017,Teeth Whitening,18100,3,0,0
+12/1/2017,Teeth Whitening,18100,1,1,0
+2/1/2018,Teeth Whitening,18100,8,3,0
+1/1/2018,Teeth Whitening,18100,3,1,0
+7/1/2017,Teeth Whitening,14800,2,1,1
+3/1/2018,Teeth Whitening,18100,6,2,0
+5/1/2017,Teeth Whitening,18100,2,0,0
+11/1/2017,Teeth Whitening,14800,1,1,0
+10/1/2017,Teeth Whitening,18100,2,0,0
+9/1/2017,Teeth Whitening,,2,0,0
+4/1/2018,Thoracoscopy,500,1,0,0
+4/1/2018,Thoracoscopy,1300,8,3,0
+8/1/2017,Thoracoscopy,1300,13,2,0
+12/1/2017,Thoracoscopy,1300,8,5,0
+2/1/2018,Thoracoscopy,1300,9,5,0
+1/1/2018,Thoracoscopy,1300,1,1,0
+7/1/2017,Thoracoscopy,1300,15,1,0
+6/1/2017,Thoracoscopy,1300,6,1,0
+3/1/2018,Thoracoscopy,1300,7,2,0
+5/1/2017,Thoracoscopy,1300,3,1,0
+11/1/2017,Thoracoscopy,1000,5,2,0
+10/1/2017,Thoracoscopy,1000,6,3,0
+9/1/2017,Thoracoscopy,,7,5,1
+4/1/2018,Thoracotomy,500,1,1,0
+4/1/2018,Thoracotomy,3600,1,1,0
+8/1/2017,Thoracotomy,4400,1,0,0
+12/1/2017,Thoracotomy,2900,1,1,0
+2/1/2018,Thoracotomy,2900,1,1,0
+7/1/2017,Thoracotomy,500,2,0,0
+4/1/2018,Throat Cancer Surgery,50,4,2,2
+2/1/2018,Throat Cancer Surgery,40,2,1,1
+3/1/2018,Throat Cancer Surgery,500,1,1,1
+4/1/2018,Thyroidectomy,2900,12,5,0
+8/1/2017,Thyroidectomy,2900,6,3,3
+12/1/2017,Thyroidectomy,2400,11,9,6
+2/1/2018,Thyroidectomy,2400,3,0,0
+1/1/2018,Thyroidectomy,2900,10,5,3
+7/1/2017,Thyroidectomy,2900,7,2,1
+6/1/2017,Thyroidectomy,2900,5,0,0
+3/1/2018,Thyroidectomy,2400,21,6,3
+5/1/2017,Thyroidectomy,2900,3,0,0
+11/1/2017,Thyroidectomy,2400,6,4,0
+10/1/2017,Thyroidectomy,2400,2,2,0
+9/1/2017,Thyroidectomy,500,3,3,3
+4/1/2018,Tonsillectomy,4400,17,9,3
+8/1/2017,Tonsillectomy,3600,14,5,1
+12/1/2017,Tonsillectomy,3600,12,4,0
+2/1/2018,Tonsillectomy,3600,12,7,2
+1/1/2018,Tonsillectomy,3600,11,5,0
+7/1/2017,Tonsillectomy,4400,10,5,1
+6/1/2017,Tonsillectomy,3600,5,1,1
+3/1/2018,Tonsillectomy,3600,19,9,4
+5/1/2017,Tonsillectomy,3600,5,2,1
+11/1/2017,Tonsillectomy,3600,9,7,0
+10/1/2017,Tonsillectomy,3600,5,4,1
+9/1/2017,Tonsillectomy,500,4,2,1
+4/1/2018,Total Hip Replacement,1600,3,0,0
+8/1/2017,Total Hip Replacement,1600,6,2,1
+12/1/2017,Total Hip Replacement,1600,2,0,0
+2/1/2018,Total Hip Replacement,1600,1,0,0
+1/1/2018,Total Hip Replacement,1600,4,3,0
+7/1/2017,Total Hip Replacement,1300,9,4,0
+6/1/2017,Total Hip Replacement,1600,1,0,0
+3/1/2018,Total Hip Replacement,1600,4,1,0
+5/1/2017,Total Hip Replacement,1600,7,3,0
+11/1/2017,Total Hip Replacement,1600,6,4,0
+10/1/2017,Total Hip Replacement,1600,1,1,0
+9/1/2017,Total Hip Replacement,,8,4,0
+4/1/2018,Total Knee Replacement,2400,21,7,3
+8/1/2017,Total Knee Replacement,1900,23,15,5
+12/1/2017,Total Knee Replacement,1900,14,10,3
+2/1/2018,Total Knee Replacement,1900,14,6,6
+1/1/2018,Total Knee Replacement,1900,10,6,0
+7/1/2017,Total Knee Replacement,1900,25,9,5
+6/1/2017,Total Knee Replacement,1900,23,12,6
+3/1/2018,Total Knee Replacement,1900,25,13,7
+5/1/2017,Total Knee Replacement,1900,50,21,13
+11/1/2017,Total Knee Replacement,1600,25,16,5
+10/1/2017,Total Knee Replacement,1900,26,19,6
+9/1/2017,Total Knee Replacement,,26,17,7
+4/1/2018,Tracheostomy,14800,1,1,0
+8/1/2017,Tracheostomy,18100,6,0,0
+12/1/2017,Tracheostomy,18100,5,3,0
+2/1/2018,Tracheostomy,18100,11,3,0
+1/1/2018,Tracheostomy,14800,5,4,1
+7/1/2017,Tracheostomy,14800,4,0,0
+6/1/2017,Tracheostomy,18100,2,0,0
+3/1/2018,Tracheostomy,14800,9,3,0
+5/1/2017,Tracheostomy,14800,1,0,0
+11/1/2017,Tracheostomy,14800,3,1,0
+10/1/2017,Tracheostomy,14800,2,0,0
+9/1/2017,Tracheostomy,,5,1,1
+4/1/2018,Transcatheter Aortic Valve Implantation TAVI,500,40,16,0
+8/1/2017,Transcatheter Aortic Valve Implantation TAVI,500,29,12,1
+12/1/2017,Transcatheter Aortic Valve Implantation TAVI,500,16,9,0
+2/1/2018,Transcatheter Aortic Valve Implantation TAVI,500,34,18,2
+1/1/2018,Transcatheter Aortic Valve Implantation TAVI,500,29,11,0
+7/1/2017,Transcatheter Aortic Valve Implantation TAVI,500,18,5,0
+6/1/2017,Transcatheter Aortic Valve Implantation TAVI,500,5,1,0
+3/1/2018,Transcatheter Aortic Valve Implantation TAVI,500,40,19,1
+5/1/2017,Transcatheter Aortic Valve Implantation TAVI,500,9,4,0
+11/1/2017,Transcatheter Aortic Valve Implantation TAVI,500,9,7,0
+10/1/2017,Transcatheter Aortic Valve Implantation TAVI,500,16,10,1
+9/1/2017,Transcatheter Aortic Valve Implantation TAVI,500,15,3,0
+4/1/2018,Transurethral Resection of Bladder Tumor,210,3,2,1
+8/1/2017,Transurethral Resection of Bladder Tumor,140,3,1,1
+12/1/2017,Transurethral Resection of Bladder Tumor,140,1,1,0
+2/1/2018,Transurethral Resection of Bladder Tumor,140,1,1,1
+1/1/2018,Transurethral Resection of Bladder Tumor,210,1,1,1
+7/1/2017,Transurethral Resection of Bladder Tumor,210,4,2,2
+6/1/2017,Transurethral Resection of Bladder Tumor,140,1,1,1
+3/1/2018,Transurethral Resection of Bladder Tumor,140,2,2,1
+11/1/2017,Transurethral Resection of Bladder Tumor,140,2,2,1
+10/1/2017,Transurethral Resection of Bladder Tumor,110,2,2,0
+9/1/2017,Transurethral Resection of Bladder Tumor,,5,1,0
+4/1/2018,Transurethral Resection of Prostate,500,1,0,0
+8/1/2017,Transurethral Resection of Prostate,500,8,7,1
+2/1/2018,Transurethral Resection of Prostate,500,2,0,0
+7/1/2017,Transurethral Resection of Prostate,500,5,1,0
+6/1/2017,Transurethral Resection of Prostate,500,2,0,0
+3/1/2018,Transurethral Resection of Prostate,500,1,1,0
+5/1/2017,Transurethral Resection of Prostate,500,4,1,1
+11/1/2017,Transurethral Resection of Prostate,500,4,2,0
+10/1/2017,Transurethral Resection of Prostate,500,5,3,2
+9/1/2017,Transurethral Resection of Prostate,500,5,3,0
+8/1/2017,Tummy Tuck Surgery,720,1,0,0
+12/1/2017,Tummy Tuck Surgery,720,3,2,0
+1/1/2018,Tummy Tuck Surgery,720,1,1,0
+7/1/2017,Tummy Tuck Surgery,720,1,0,0
+6/1/2017,Tummy Tuck Surgery,720,3,1,0
+3/1/2018,Tummy Tuck Surgery,590,1,1,0
+5/1/2017,Tummy Tuck Surgery,720,2,1,0
+11/1/2017,Tummy Tuck Surgery,,1,0,0
+4/1/2018,Tympanoplasty,3600,16,5,0
+8/1/2017,Tympanoplasty,4400,8,4,1
+12/1/2017,Tympanoplasty,3600,7,4,0
+2/1/2018,Tympanoplasty,4400,13,7,1
+1/1/2018,Tympanoplasty,3600,21,9,0
+7/1/2017,Tympanoplasty,3600,4,0,0
+6/1/2017,Tympanoplasty,3600,6,1,0
+3/1/2018,Tympanoplasty,3600,13,5,3
+5/1/2017,Tympanoplasty,3600,20,10,2
+11/1/2017,Tympanoplasty,3600,10,8,1
+10/1/2017,Tympanoplasty,3600,9,6,1
+9/1/2017,Tympanoplasty,500,7,2,0
+4/1/2018,Ureterostomy,480,2,2,2
+8/1/2017,Ureterostomy,260,1,1,0
+12/1/2017,Ureterostomy,260,1,0,0
+2/1/2018,Ureterostomy,390,1,1,0
+7/1/2017,Ureterostomy,260,1,1,0
+3/1/2018,Ureterostomy,260,1,1,1
+11/1/2017,Ureterostomy,320,2,2,1
+9/1/2017,Ureterostomy,500,1,1,0
+4/1/2018,Urethrotomy,480,1,0,0
+8/1/2017,Urethrotomy,390,4,2,2
+12/1/2017,Urethrotomy,390,4,2,1
+2/1/2018,Urethrotomy,390,5,1,0
+1/1/2018,Urethrotomy,390,6,5,1
+7/1/2017,Urethrotomy,390,5,0,0
+6/1/2017,Urethrotomy,390,3,1,0
+3/1/2018,Urethrotomy,320,6,2,0
+5/1/2017,Urethrotomy,320,2,1,1
+11/1/2017,Urethrotomy,320,6,3,2
+10/1/2017,Urethrotomy,390,5,3,2
+9/1/2017,Urethrotomy,390,2,2,0
+2/1/2018,Urostomy,880,3,3,3
+6/1/2017,Urostomy,880,1,1,1
+5/1/2017,Urostomy,480,1,1,1
+11/1/2017,Urostomy,480,2,0,0
+10/1/2017,Urostomy,590,1,1,1
+9/1/2017,Urostomy,,1,1,0
+4/1/2018,Uterus Removal Surgery,500,4,0,0
+4/1/2018,Uterus Removal Surgery,720,29,14,1
+8/1/2017,Uterus Removal Surgery,1300,29,8,4
+12/1/2017,Uterus Removal Surgery,1600,21,16,1
+2/1/2018,Uterus Removal Surgery,1900,9,4,0
+1/1/2018,Uterus Removal Surgery,720,21,14,2
+7/1/2017,Uterus Removal Surgery,1600,35,11,5
+6/1/2017,Uterus Removal Surgery,720,27,3,2
+3/1/2018,Uterus Removal Surgery,590,29,10,2
+5/1/2017,Uterus Removal Surgery,590,24,5,1
+11/1/2017,Uterus Removal Surgery,720,13,7,0
+10/1/2017,Uterus Removal Surgery,720,16,11,2
+9/1/2017,Uterus Removal Surgery,720,10,9,0
+8/1/2017,Vaginal Birth After Cesarean,500,4,2,0
+12/1/2017,Vaginal Birth After Cesarean,500,5,3,0
+2/1/2018,Vaginal Birth After Cesarean,500,5,2,0
+1/1/2018,Vaginal Birth After Cesarean,500,5,2,0
+7/1/2017,Vaginal Birth After Cesarean,500,8,0,0
+6/1/2017,Vaginal Birth After Cesarean,500,4,2,2
+3/1/2018,Vaginal Birth After Cesarean,500,3,1,0
+5/1/2017,Vaginal Birth After Cesarean,500,1,0,0
+11/1/2017,Vaginal Birth After Cesarean,500,3,2,0
+10/1/2017,Vaginal Birth After Cesarean,500,1,1,0
+9/1/2017,Vaginal Birth After Cesarean,500,1,1,0
+4/1/2018,Vaginal Hysterectomy,1900,1,0,0
+8/1/2017,Vaginal Hysterectomy,1900,2,1,0
+12/1/2017,Vaginal Hysterectomy,2400,3,2,0
+2/1/2018,Vaginal Hysterectomy,1900,4,2,0
+1/1/2018,Vaginal Hysterectomy,1900,1,1,0
+7/1/2017,Vaginal Hysterectomy,1900,1,0,0
+6/1/2017,Vaginal Hysterectomy,2400,1,0,0
+3/1/2018,Vaginal Hysterectomy,2400,1,0,0
+5/1/2017,Vaginal Hysterectomy,1600,2,0,0
+11/1/2017,Vaginal Hysterectomy,1900,1,1,1
+9/1/2017,Vaginal Hysterectomy,,1,1,0
+4/1/2018,Vagus Nerve Stimulation,720,8,5,0
+8/1/2017,Vagus Nerve Stimulation,880,7,1,0
+12/1/2017,Vagus Nerve Stimulation,590,8,3,0
+2/1/2018,Vagus Nerve Stimulation,880,1,1,0
+1/1/2018,Vagus Nerve Stimulation,590,3,0,0
+7/1/2017,Vagus Nerve Stimulation,590,4,1,0
+6/1/2017,Vagus Nerve Stimulation,590,4,0,0
+3/1/2018,Vagus Nerve Stimulation,480,3,1,0
+5/1/2017,Vagus Nerve Stimulation,720,3,0,0
+11/1/2017,Vagus Nerve Stimulation,720,2,1,0
+10/1/2017,Vagus Nerve Stimulation,590,5,3,0
+9/1/2017,Vagus Nerve Stimulation,500,5,1,0
+4/1/2018,Varicose Vein Surgery,1900,14,7,3
+8/1/2017,Varicose Vein Surgery,1900,22,10,4
+12/1/2017,Varicose Vein Surgery,1900,13,7,4
+2/1/2018,Varicose Vein Surgery,1900,26,15,4
+1/1/2018,Varicose Vein Surgery,1600,9,4,2
+7/1/2017,Varicose Vein Surgery,1600,28,12,7
+6/1/2017,Varicose Vein Surgery,1900,17,9,7
+3/1/2018,Varicose Vein Surgery,1600,11,4,2
+5/1/2017,Varicose Vein Surgery,1900,12,5,2
+11/1/2017,Varicose Vein Surgery,1900,21,16,14
+10/1/2017,Varicose Vein Surgery,1900,13,10,7
+9/1/2017,Varicose Vein Surgery,500,4,2,2
+4/1/2018,Vasectomy,22200,13,8,0
+8/1/2017,Vasectomy,27100,10,2,0
+12/1/2017,Vasectomy,22200,4,2,0
+2/1/2018,Vasectomy,27100,18,10,0
+1/1/2018,Vasectomy,18100,10,7,0
+7/1/2017,Vasectomy,18100,7,3,0
+6/1/2017,Vasectomy,27100,5,0,0
+3/1/2018,Vasectomy,18100,11,3,0
+5/1/2017,Vasectomy,18100,11,0,0
+11/1/2017,Vasectomy,22200,15,10,0
+10/1/2017,Vasectomy,18100,4,3,0
+9/1/2017,Vasectomy,22200,1,0,0
+8/1/2017,Vasectomy Reversal,590,2,0,0
+8/1/2017,VATS - Video Assisted Thoracoscopic Surgery,500,3,0,0
+3/1/2018,VATS - Video Assisted Thoracoscopic Surgery,500,3,1,0
+9/1/2017,VATS - Video Assisted Thoracoscopic Surgery,500,1,1,1
+4/1/2018,Ventricular Assist Device,390,5,2,0
+8/1/2017,Ventricular Assist Device,260,2,1,0
+12/1/2017,Ventricular Assist Device,320,3,3,1
+2/1/2018,Ventricular Assist Device,260,2,1,0
+1/1/2018,Ventricular Assist Device,320,1,1,0
+7/1/2017,Ventricular Assist Device,390,8,1,0
+6/1/2017,Ventricular Assist Device,320,2,0,0
+3/1/2018,Ventricular Assist Device,390,2,0,0
+5/1/2017,Ventricular Assist Device,260,3,0,0
+11/1/2017,Ventricular Assist Device,390,5,3,0
+10/1/2017,Ventricular Assist Device,390,7,1,0
+9/1/2017,Ventricular Assist Device,,2,1,0
+4/1/2018,Ventricular Septal Defect Surgery,110,18,8,1
+8/1/2017,Ventricular Septal Defect Surgery,110,22,8,2
+12/1/2017,Ventricular Septal Defect Surgery,110,13,8,3
+2/1/2018,Ventricular Septal Defect Surgery,110,29,13,6
+1/1/2018,Ventricular Septal Defect Surgery,110,19,11,6
+7/1/2017,Ventricular Septal Defect Surgery,90,19,5,1
+6/1/2017,Ventricular Septal Defect Surgery,110,5,3,2
+3/1/2018,Ventricular Septal Defect Surgery,110,25,11,6
+5/1/2017,Ventricular Septal Defect Surgery,70,7,3,2
+11/1/2017,Ventricular Septal Defect Surgery,50,12,7,3
+10/1/2017,Ventricular Septal Defect Surgery,110,3,2,0
+9/1/2017,Ventricular Septal Defect Surgery,500,8,5,2
+4/1/2018,Ventriculoperitoneal Shunt,1300,12,7,1
+8/1/2017,Ventriculoperitoneal Shunt,1000,17,1,1
+12/1/2017,Ventriculoperitoneal Shunt,1000,12,7,1
+2/1/2018,Ventriculoperitoneal Shunt,1000,11,5,1
+1/1/2018,Ventriculoperitoneal Shunt,1300,12,8,0
+7/1/2017,Ventriculoperitoneal Shunt,1000,12,3,0
+6/1/2017,Ventriculoperitoneal Shunt,1000,4,0,0
+3/1/2018,Ventriculoperitoneal Shunt,1000,14,6,0
+5/1/2017,Ventriculoperitoneal Shunt,1000,10,2,0
+11/1/2017,Ventriculoperitoneal Shunt,880,11,8,0
+10/1/2017,Ventriculoperitoneal Shunt,1000,10,5,0
+9/1/2017,Ventriculoperitoneal Shunt,,9,3,0
+4/1/2018,Vertebroplasty,1000,2,1,0
+8/1/2017,Vertebroplasty,1000,5,2,0
+12/1/2017,Vertebroplasty,1000,4,3,0
+1/1/2018,Vertebroplasty,1000,1,0,0
+7/1/2017,Vertebroplasty,1300,1,0,0
+6/1/2017,Vertebroplasty,1000,1,0,0
+3/1/2018,Vertebroplasty,880,6,3,0
+10/1/2017,Vertebroplasty,1000,13,1,0
+9/1/2017,Vertebroplasty,500,1,1,0
+4/1/2018,Vitrectomy,2400,1,0,0
+8/1/2017,Vitrectomy,2400,5,1,0
+12/1/2017,Vitrectomy,1900,1,1,0
+2/1/2018,Vitrectomy,1900,3,1,0
+1/1/2018,Vitrectomy,1900,1,0,0
+7/1/2017,Vitrectomy,1900,1,0,0
+3/1/2018,Vitrectomy,1900,2,0,0
+5/1/2017,Vitrectomy,1900,1,0,0
+11/1/2017,Vitrectomy,1900,1,1,0
+10/1/2017,Vitrectomy,1900,2,2,0
+9/1/2017,Vitrectomy,,1,1,0
+4/1/2018,Vocal Cord Surgery,500,1,0,0
+8/1/2017,Vocal Cord Surgery,140,25,11,1
+12/1/2017,Vocal Cord Surgery,110,14,7,1
+2/1/2018,Vocal Cord Surgery,110,19,3,2
+1/1/2018,Vocal Cord Surgery,90,13,8,1
+7/1/2017,Vocal Cord Surgery,110,30,5,1
+6/1/2017,Vocal Cord Surgery,90,9,1,1
+3/1/2018,Vocal Cord Surgery,110,32,9,0
+5/1/2017,Vocal Cord Surgery,90,7,1,0
+11/1/2017,Vocal Cord Surgery,110,17,6,0
+10/1/2017,Vocal Cord Surgery,110,11,5,1
+9/1/2017,Vocal Cord Surgery,500,5,4,0
+4/1/2018,Weight Loss Surgery,1600,8,4,1
+8/1/2017,Weight Loss Surgery,1300,14,5,0
+12/1/2017,Weight Loss Surgery,1300,9,5,1
+2/1/2018,Weight Loss Surgery,1300,5,1,0
+1/1/2018,Weight Loss Surgery,1600,8,4,3
+7/1/2017,Weight Loss Surgery,1600,14,4,0
+6/1/2017,Weight Loss Surgery,1300,9,2,0
+3/1/2018,Weight Loss Surgery,1600,17,10,4
+5/1/2017,Weight Loss Surgery,1300,7,1,0
+11/1/2017,Weight Loss Surgery,1600,4,4,0
+10/1/2017,Weight Loss Surgery,1300,6,5,0
+9/1/2017,Weight Loss Surgery,500,12,6,0
