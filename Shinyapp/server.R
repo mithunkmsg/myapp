@@ -6,7 +6,7 @@ library(ggplot2)
 library(forecast)
 
 
-request_data<-read.csv("E:/DATA SCIENCE/credihealth/vaibhav project/request_data.csv")
+request_data<-read.csv("request_data.csv")
 request_data$Ind_search<-as.numeric(request_data$Ind_search)
 request_data[is.na(request_data)]<-3968
 request_data$Month<-as.Date(request_data$Month,format="%m/%d/%Y")
