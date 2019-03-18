@@ -1,46 +1,76 @@
 library(shiny)
-library(zoo)
+library(lubridate)
 library(dygraphs)
-library(xts)
-library(dplyr)
-library(tidyr)
-library(reshape2)
-
-request_data<-read.csv("request_data.csv")
-request_data$Ind_search<-as.numeric(request_data$Ind_search)
-request_data[is.na(request_data)]<-3968
-request_data$Month<-as.Date(request_data$Month,format="%m/%d/%Y")
-
-df1<-melt(request_data,id.vars = c("Month","Speciality"))
 
 
-
-shinyUI(
-  pageWithSidebar(
-    
-    titlePanel(div(h4("TREND GRAPH FOR IND_SEARCH,CREDI_REQUEST, CREDI_OPD AND CREDI_IPD IN DIFFERENT MONTH", align = "center"), style = "color:red"),windowTitle = "Request Analysis"),
-    
-    sidebarPanel(
+ui <- fluidPage(
+  theme = "style.css",
+  img(src='logo_omega_.png', align = 'center',height='60px',class='d-inline-block align-top',alt=""
+      ,href="#"),
+  titlePanel(div(h4("NEW PATIENT VISIT APPOINTMENT ANALYSIS", align = "center"), style = "color:roboto"),windowTitle = "Appt Feedback Analysis"),
+  #theme = shinytheme("Roboto"),
+  fluidRow(
+    column(3,wellPanel(
       
-      selectInput("Speciality","1. Please select a Keyword:",choices = levels(df1$Speciality),selected = "Abortion Surgery")
+      tags$head(tags$style(type="text/css", 
+                           ".test_type {color : Roboto;
+                           font-size: 12px; 
+                           }"
+      )
+      ),
       
-    ),
-    mainPanel(
-      tabsetPanel(type="tab",
-                  tabPanel("Trend Graph",br(),
-                           h4(dygraphOutput("dygraph")),
-                           #h4(textOutput("legendDivID"), title = "Legend", collapsible = F, width=2),
-                           br(),
-                           h4(dygraphOutput("dygraph2"))),
-                  tabPanel("Forecast",fluidRow(
-                    splitLayout(cellWidths = c("50%", "50%"), plotOutput("plotgraph1"), plotOutput("plotgraph2"),plotOutput("plotgraph3"))
-                  ),
-                  fluidRow(
-                    splitLayout(cellWidths = c("50%", "50%"), verbatimTextOutput("text1"), verbatimTextOutput("text2"),verbatimTextOutput("text3"))
-                  ))
+      br(),
+      
+      
+      div(class="test_type",dateRangeInput(inputId = "dateRange",  
+                                           label =  "1. Please Select a Date Range:",
+                                           start = Sys.Date()-10,
+                                           end = Sys.Date()-1,
+                                           #min = "2018-07-01"),
+                                           format = "dd-mm-yyyy"
+                                           
+      )),
+      
+      div(class="test_type",selectInput("appt_input", label = "2. Type of Analysis:", 
+                                        c("Date Wise"= "date",
+                                          "City Wise" = "city",
+                                          "Hospital Wise" = "hospital",
+                                          "Treatment Wise" = 'treatment',
+                                          "Agent Wise" ="agent"
+                                        ),
+                                        width = validateCssUnit("100%"))),
+      
+      
+      #uiOutput("submit")
+      
+      uiOutput("filter_box"),
+      
+      submitButton()
+      
+      )),
+    column(9,tabsetPanel(type="tab",
+                         tabPanel("Date Wise",br(),
+                                  span(dataTableOutput("table1"),style="color:Roboto"
+                                  )),
+                         tabPanel("City Wise",br(),
+                                  span(dataTableOutput("table2"),style="color:Roboto"
+                                  )),
+                         tabPanel("Hospital Wise",br(),
+                                  span(dataTableOutput("table3"),style="color:Roboto"
+                                  )),
+                         tabPanel("Treatment Wise",br(),
+                                  span(dataTableOutput("table4"),style="color:Roboto"
+                                  )),
+                         tabPanel("Sales Agent Wise",br(),
+                                  span(dataTableOutput("table5"),style="color:Roboto"
+                                  ))
+                         
+                         
+                         
+    ))
+    
     )
-  )
 )
-)
+
 
 
